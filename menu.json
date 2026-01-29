@@ -1,0 +1,2507 @@
+{
+  "items": [
+    {
+      "id": "d1",
+      "location": "dominion",
+      "category": "South Indian Dosa",
+      "title": "Sada Dosa",
+      "price": 9.99,
+      "image": "https://i.pinimg.com/736x/74/1a/16/741a167c5ba52b975a74f3ff7a1b8288.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d2",
+      "location": "dominion",
+      "category": "South Indian Dosa",
+      "title": "Set Dosa",
+      "price": 11.99,
+      "image": "https://i.pinimg.com/736x/a6/17/bc/a617bc8d9f6617853cfbe3a648a39216.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d3",
+      "location": "dominion",
+      "category": "South Indian Dosa",
+      "title": "Masala Dosa",
+      "price": 13.99,
+      "image": "https://i.pinimg.com/736x/07/38/83/073883d487775529d2449cfb4b30b3eb.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d4",
+      "location": "dominion",
+      "category": "South Indian Dosa",
+      "title": "Open Dosa",
+      "price": 14.99,
+      "image": "https://i.pinimg.com/736x/33/e0/df/33e0dfe2b6f780b80cc2a87a386627bf.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d5",
+      "location": "dominion",
+      "category": "South Indian Dosa",
+      "title": "Onion Dosa",
+      "price": 13.99,
+      "image": "https://i.pinimg.com/736x/9d/9e/4b/9d9e4b4430cc7740071a7e21fb8dea30.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d6",
+      "location": "dominion",
+      "category": "South Indian Dosa",
+      "title": "Mysore Sada Dosa",
+      "price": 12.99,
+      "image": "https://i.pinimg.com/736x/18/52/db/1852db843593d5bb3ec3788de559f14e.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d7",
+      "location": "dominion",
+      "category": "South Indian Dosa",
+      "title": "Mysore Masala Dosa",
+      "price": 14.99,
+      "image": "https://i.pinimg.com/736x/fa/11/f3/fa11f3cf15fceb64d1d30cc37e742bc9.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d8",
+      "location": "dominion",
+      "category": "South Indian Dosa",
+      "title": "Rocket Mysore Sada Dosa",
+      "price": 13.99,
+      "image": "https://i.pinimg.com/736x/52/0c/d3/520cd3d423da60c052f34945bdcce150.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d9",
+      "location": "dominion",
+      "category": "South Indian Dosa",
+      "title": "Hara Sada Dosa",
+      "price": 12.99,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4mNp64Fvq-DkCkTtev1XxN0LPQQ60Lrs4sw&s",
+      "badge": ""
+    },
+    {
+      "id": "d10",
+      "location": "dominion",
+      "category": "South Indian Dosa",
+      "title": "Hara Masala Dosa",
+      "price": 14.99,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs2vyFPIK1gLkBKwAxur7_Xw_I9KQTtZWhuw&s",
+      "badge": ""
+    },
+    {
+      "id": "d11",
+      "location": "dominion",
+      "category": "South Indian Dosa",
+      "title": "Pudy Roast Dosa",
+      "price": 14.99,
+      "image": "https://s7ap1.scene7.com/is/image/itcportalprod/Podi%20dosa%20desktop%20images",
+      "badge": ""
+    },
+
+    {
+      "id": "d12",
+      "location": "dominion",
+      "category": "Golden Rava Dosa",
+      "title": "Rava Sada Dosa",
+      "price": 14.99,
+      "image": "images/rava-1.jpg",
+      "badge": "golden"
+    },
+    {
+      "id": "d13",
+      "location": "dominion",
+      "category": "Golden Rava Dosa",
+      "title": "Rava Masala Dosa",
+      "price": 15.99,
+      "image": "images/rava-2.jpg",
+      "badge": "golden"
+    },
+    {
+      "id": "d14",
+      "location": "dominion",
+      "category": "Golden Rava Dosa",
+      "title": "Rava Onion Sada Dosa",
+      "price": 15.99,
+      "image": "images/rava-3.jpg",
+      "badge": "golden"
+    },
+    {
+      "id": "d15",
+      "location": "dominion",
+      "category": "Golden Rava Dosa",
+      "title": "Rava Onion Masala Dosa",
+      "price": 16.99,
+      "image": "images/rava-4.jpg",
+      "badge": "golden"
+    },
+    {
+      "id": "d16",
+      "location": "dominion",
+      "category": "Golden Rava Dosa",
+      "title": "Golden Rava Masala Dosa",
+      "price": 18.99,
+      "image": "images/rava-5.jpg",
+      "badge": "golden"
+    },
+
+    {
+      "id": "d17",
+      "location": "dominion",
+      "category": "Signature Spice Dosa",
+      "title": "Paneer Chinese Chili Dosa",
+      "price": 17.99,
+      "image": "images/signature-1.jpg",
+      "badge": "signature"
+    },
+    {
+      "id": "d18",
+      "location": "dominion",
+      "category": "Signature Spice Dosa",
+      "title": "Paneer Salad Roast Dosa",
+      "price": 17.99,
+      "image": "images/signature-2.jpg",
+      "badge": "signature"
+    },
+    {
+      "id": "d19",
+      "location": "dominion",
+      "category": "Signature Spice Dosa",
+      "title": "Mushroom Chopsuey Dosa",
+      "price": 17.99,
+      "image": "images/signature-3.jpg",
+      "badge": "signature"
+    },
+    {
+      "id": "d20",
+      "location": "dominion",
+      "category": "Signature Spice Dosa",
+      "title": "Jam Roast Dosa",
+      "price": 14.99,
+      "image": "images/signature-4.jpg",
+      "badge": "signature"
+    },
+
+    {
+      "id": "d21",
+      "location": "dominion",
+      "category": "Authentic Veg Uttapam",
+      "title": "Mini Uttapam",
+      "price": 12.99,
+      "image": "images/uttapam-1.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d22",
+      "location": "dominion",
+      "category": "Authentic Veg Uttapam",
+      "title": "Plain Uttapam",
+      "price": 13.99,
+      "image": "images/uttapam-2.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d23",
+      "location": "dominion",
+      "category": "Authentic Veg Uttapam",
+      "title": "Mix Uttapam",
+      "price": 14.99,
+      "image": "images/uttapam-3.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d24",
+      "location": "dominion",
+      "category": "Authentic Veg Uttapam",
+      "title": "Onion Uttapam",
+      "price": 14.99,
+      "image": "images/uttapam-4.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d25",
+      "location": "dominion",
+      "category": "Authentic Veg Uttapam",
+      "title": "Mysore Uttapam",
+      "price": 15.99,
+      "image": "images/uttapam-5.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d26",
+      "location": "dominion",
+      "category": "Authentic Veg Uttapam",
+      "title": "Chinese Onion Delight Uttapam",
+      "price": 16.99,
+      "image": "images/uttapam-6.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d27",
+      "location": "dominion",
+      "category": "Authentic Veg Uttapam",
+      "title": "Schezwan Uttapam",
+      "price": 16.99,
+      "image": "images/uttapam-7.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d28",
+      "location": "dominion",
+      "category": "Authentic Veg Uttapam",
+      "title": "Hot Garlic Uttapam",
+      "price": 16.99,
+      "image": "images/uttapam-8.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d29",
+      "location": "dominion",
+      "category": "Authentic Veg Uttapam",
+      "title": "Tom-Chi Uttapam",
+      "price": 16.99,
+      "image": "images/uttapam-9.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d30",
+      "location": "dominion",
+      "category": "Authentic Veg Uttapam",
+      "title": "Sandwich Uttapam",
+      "price": 16.99,
+      "image": "images/uttapam-10.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d31",
+      "location": "dominion",
+      "category": "Authentic Veg Uttapam",
+      "title": "Paneer Onion Uttapam",
+      "price": 15.99,
+      "image": "images/uttapam-11.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d32",
+      "location": "dominion",
+      "category": "Authentic Veg Uttapam",
+      "title": "Paneer Onion Tomato Uttapam",
+      "price": 15.99,
+      "image": "images/uttapam-12.jpg",
+      "badge": ""
+    },
+
+    {
+      "id": "d33",
+      "location": "dominion",
+      "category": "Global Twist Dosa",
+      "title": "Mexican Roast Dosa",
+      "price": 17.99,
+      "image": "images/global-1.jpg",
+      "badge": "global"
+    },
+    {
+      "id": "d34",
+      "location": "dominion",
+      "category": "Global Twist Dosa",
+      "title": "Spring Roll Dosa",
+      "price": 16.99,
+      "image": "images/global-2.jpg",
+      "badge": "global"
+    },
+    {
+      "id": "d35",
+      "location": "dominion",
+      "category": "Global Twist Dosa",
+      "title": "Mexi Roll Dosa",
+      "price": 17.99,
+      "image": "images/global-3.jpg",
+      "badge": "global"
+    },
+    {
+      "id": "d36",
+      "location": "dominion",
+      "category": "Global Twist Dosa",
+      "title": "Red Chilli Dosa",
+      "price": 18.99,
+      "image": "images/global-4.jpg",
+      "badge": "global"
+    },
+    {
+      "id": "d37",
+      "location": "dominion",
+      "category": "Global Twist Dosa",
+      "title": "Schezwan Stuffed Dosa",
+      "price": 18.99,
+      "image": "images/global-5.jpg",
+      "badge": "global"
+    },
+    {
+      "id": "d38",
+      "location": "dominion",
+      "category": "Global Twist Dosa",
+      "title": "Schezwan Paneer Dosa",
+      "price": 18.99,
+      "image": "images/global-6.jpg",
+      "badge": "global"
+    },
+    {
+      "id": "d39",
+      "location": "dominion",
+      "category": "Global Twist Dosa",
+      "title": "Schezwan Mushroom Dosa",
+      "price": 18.99,
+      "image": "images/global-7.jpg",
+      "badge": "global"
+    },
+    {
+      "id": "d40",
+      "location": "dominion",
+      "category": "Global Twist Dosa",
+      "title": "Paneer Chilli Dosa",
+      "price": 19.99,
+      "image": "images/global-8.jpg",
+      "badge": "global"
+    },
+    {
+      "id": "d41",
+      "location": "dominion",
+      "category": "Global Twist Dosa",
+      "title": "Chinese Delight Dosa",
+      "price": 19.99,
+      "image": "images/global-9.jpg",
+      "badge": "global"
+    },
+    {
+      "id": "d42",
+      "location": "dominion",
+      "category": "Global Twist Dosa",
+      "title": "American Delight Dosa",
+      "price": 19.99,
+      "image": "images/global-10.jpg",
+      "badge": "global"
+    },
+    {
+      "id": "d43",
+      "location": "dominion",
+      "category": "Global Twist Dosa",
+      "title": "Paneer Crispy Dosa",
+      "price": 19.99,
+      "image": "images/global-11.jpg",
+      "badge": "global"
+    },
+    {
+      "id": "d44",
+      "location": "dominion",
+      "category": "Global Twist Dosa",
+      "title": "Gotala Dosa",
+      "price": 19.99,
+      "image": "images/global-12.jpg",
+      "badge": "global"
+    },
+
+    {
+      "id": "d45",
+      "location": "dominion",
+      "category": "Chef Special Recipe Dosa",
+      "title": "D.V Special Dosa",
+      "price": 12.99,
+      "image": "images/chef-1.jpg",
+      "badge": "chef-special"
+    },
+    {
+      "id": "d46",
+      "location": "dominion",
+      "category": "Chef Special Recipe Dosa",
+      "title": "D.V Special Masala Dosa",
+      "price": 14.99,
+      "image": "images/chef-2.jpg",
+      "badge": "chef-special"
+    },
+    {
+      "id": "d47",
+      "location": "dominion",
+      "category": "Chef Special Recipe Dosa",
+      "title": "D.V Chef Special Dosa",
+      "price": 16.99,
+      "image": "images/chef-3.jpg",
+      "badge": "chef-special"
+    },
+    {
+      "id": "d48",
+      "location": "dominion",
+      "category": "Chef Special Recipe Dosa",
+      "title": "D.V Special Garlic Roast Dosa",
+      "price": 17.99,
+      "image": "images/chef-4.jpg",
+      "badge": "chef-special"
+    },
+    {
+      "id": "d49",
+      "location": "dominion",
+      "category": "Chef Special Recipe Dosa",
+      "title": "D.V Chopshey Dosa",
+      "price": 18.99,
+      "image": "images/chef-5.jpg",
+      "badge": "chef-special"
+    },
+    {
+      "id": "d50",
+      "location": "dominion",
+      "category": "Chef Special Recipe Dosa",
+      "title": "D.V Spicy Special Dosa",
+      "price": 14.99,
+      "image": "images/chef-6.jpg",
+      "badge": "chef-special"
+    },
+    {
+      "id": "d51",
+      "location": "dominion",
+      "category": "Chef Special Recipe Dosa",
+      "title": "D.V Paneer Chopshey Dosa",
+      "price": 17.99,
+      "image": "images/chef-7.jpg",
+      "badge": "chef-special"
+    },
+    {
+      "id": "d52",
+      "location": "dominion",
+      "category": "Chef Special Recipe Dosa",
+      "title": "D.V Paneer Delight Dosa",
+      "price": 20.99,
+      "image": "images/chef-8.jpg",
+      "badge": "chef-special"
+    },
+    {
+      "id": "d53",
+      "location": "dominion",
+      "category": "Chef Special Recipe Dosa",
+      "title": "D.V Special Jini Dosa",
+      "price": 18.99,
+      "image": "images/chef-9.jpg",
+      "badge": "chef-special"
+    },
+    {
+      "id": "d54",
+      "location": "dominion",
+      "category": "Chef Special Recipe Dosa",
+      "title": "D.V Big Paper Roast Dosa",
+      "price": 22.99,
+      "image": "images/chef-10.jpg",
+      "badge": "chef-special"
+    },
+    {
+      "id": "d55",
+      "location": "dominion",
+      "category": "Chef Special Recipe Dosa",
+      "title": "D.V Special Big Paper Roast Dosa",
+      "price": 25.99,
+      "image": "images/chef-11.jpg",
+      "badge": "chef-special"
+    },
+
+    {
+      "id": "d56",
+      "location": "dominion",
+      "category": "Healthy Idli & Vada",
+      "title": "Soft Idli (3 pcs)",
+      "price": 9.99,
+      "image": "images/idli-1.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d57",
+      "location": "dominion",
+      "category": "Healthy Idli & Vada",
+      "title": "D.V Special Sambar Idli",
+      "price": 12.99,
+      "image": "images/idli-2.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d58",
+      "location": "dominion",
+      "category": "Healthy Idli & Vada",
+      "title": "D.V Special Pudy Idli",
+      "price": 12.99,
+      "image": "images/idli-3.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d59",
+      "location": "dominion",
+      "category": "Healthy Idli & Vada",
+      "title": "D.V Special Onion Cheese Idli",
+      "price": 12.99,
+      "image": "images/idli-4.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d60",
+      "location": "dominion",
+      "category": "Healthy Idli & Vada",
+      "title": "Medu Vada (3 pcs)",
+      "price": 9.99,
+      "image": "images/vada-1.jpg",
+      "badge": ""
+    },
+
+    {
+      "id": "d61",
+      "location": "dominion",
+      "category": "Drinks",
+      "title": "Masala Tea (Small)",
+      "price": 2.0,
+      "image": "images/drink-1.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d62",
+      "location": "dominion",
+      "category": "Drinks",
+      "title": "Masala Tea (Large)",
+      "price": 4.0,
+      "image": "images/drink-2.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d63",
+      "location": "dominion",
+      "category": "Drinks",
+      "title": "Filter Coffee",
+      "price": 4.99,
+      "image": "images/drink-3.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d64",
+      "location": "dominion",
+      "category": "Drinks",
+      "title": "Soft Drink",
+      "price": 3.0,
+      "image": "images/drink-4.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d65",
+      "location": "dominion",
+      "category": "Drinks",
+      "title": "Water",
+      "price": 2.0,
+      "image": "images/drink-5.jpg",
+      "badge": ""
+    },
+
+    {
+      "id": "d66",
+      "location": "dominion",
+      "category": "North India Steam & Spicy",
+      "title": "Schezwan Momo",
+      "price": 12.99,
+      "image": "images/momo-1.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d67",
+      "location": "dominion",
+      "category": "North India Steam & Spicy",
+      "title": "Fried Momo",
+      "price": 11.99,
+      "image": "images/momo-2.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d68",
+      "location": "dominion",
+      "category": "North India Steam & Spicy",
+      "title": "Soya Chilli Momo",
+      "price": 12.99,
+      "image": "images/momo-3.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d69",
+      "location": "dominion",
+      "category": "North India Steam & Spicy",
+      "title": "Mumbai Pav Bhaji",
+      "price": 10.99,
+      "image": "images/north-1.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d70",
+      "location": "dominion",
+      "category": "North India Steam & Spicy",
+      "title": "Chole Bhature",
+      "price": 10.99,
+      "image": "images/north-2.jpg",
+      "badge": ""
+    },
+
+    {
+      "id": "d71",
+      "location": "dominion",
+      "category": "Aakhri Pasta",
+      "title": "Chef Special Pasta",
+      "price": 14.99,
+      "image": "images/pasta-1.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d72",
+      "location": "dominion",
+      "category": "Aakhri Pasta",
+      "title": "Creamy Alfredo Pasta",
+      "price": 14.99,
+      "image": "images/pasta-2.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d73",
+      "location": "dominion",
+      "category": "Aakhri Pasta",
+      "title": "Penne Arrabiata Pasta",
+      "price": 14.99,
+      "image": "images/pasta-3.jpg",
+      "badge": ""
+    },
+
+    {
+      "id": "d74",
+      "location": "dominion",
+      "category": "Desi Street Food",
+      "title": "Masala Pani Puri (6 Pcs)",
+      "price": 9.99,
+      "image": "images/street-1.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d75",
+      "location": "dominion",
+      "category": "Desi Street Food",
+      "title": "Sev Batata Puri (8 Pcs)",
+      "price": 9.99,
+      "image": "images/street-2.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d76",
+      "location": "dominion",
+      "category": "Desi Street Food",
+      "title": "Dahi Batata Puri (6 pcs)",
+      "price": 9.99,
+      "image": "images/street-3.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d77",
+      "location": "dominion",
+      "category": "Desi Street Food",
+      "title": "Bhel Puri",
+      "price": 9.99,
+      "image": "images/street-4.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d78",
+      "location": "dominion",
+      "category": "Desi Street Food",
+      "title": "Chinese Bhel",
+      "price": 10.99,
+      "image": "images/street-5.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d79",
+      "location": "dominion",
+      "category": "Desi Street Food",
+      "title": "Dahi Vada",
+      "price": 9.99,
+      "image": "images/street-6.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d80",
+      "location": "dominion",
+      "category": "Desi Street Food",
+      "title": "Samosa Chaat",
+      "price": 9.99,
+      "image": "images/street-7.jpg",
+      "badge": ""
+    },
+
+    {
+      "id": "d81",
+      "location": "dominion",
+      "category": "Desi Chinese (Gravy)",
+      "title": "Veg Manchurian (Gravy)",
+      "price": 14.99,
+      "image": "images/chinese-gravy-1.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d82",
+      "location": "dominion",
+      "category": "Desi Chinese (Gravy)",
+      "title": "Gobhi Manchurian (Gravy)",
+      "price": 14.99,
+      "image": "images/chinese-gravy-2.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d83",
+      "location": "dominion",
+      "category": "Desi Chinese (Gravy)",
+      "title": "Paneer Chilli (Gravy)",
+      "price": 14.99,
+      "image": "images/chinese-gravy-3.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d84",
+      "location": "dominion",
+      "category": "Desi Chinese (Gravy)",
+      "title": "Cashew Paneer Chilli (Gravy)",
+      "price": 14.99,
+      "image": "images/chinese-gravy-4.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d85",
+      "location": "dominion",
+      "category": "Desi Chinese (Gravy)",
+      "title": "Paneer Manchurian (Gravy)",
+      "price": 14.99,
+      "image": "images/chinese-gravy-5.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d86",
+      "location": "dominion",
+      "category": "Desi Chinese (Gravy)",
+      "title": "D.V Special (Gravy)",
+      "price": 14.99,
+      "image": "images/chinese-gravy-6.jpg",
+      "badge": ""
+    },
+
+    {
+      "id": "d87",
+      "location": "dominion",
+      "category": "Desi Chinese (Dry)",
+      "title": "Dry Manchurian",
+      "price": 13.99,
+      "image": "images/chinese-dry-1.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d88",
+      "location": "dominion",
+      "category": "Desi Chinese (Dry)",
+      "title": "Dry Paneer Manchurian",
+      "price": 14.99,
+      "image": "images/chinese-dry-2.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d89",
+      "location": "dominion",
+      "category": "Desi Chinese (Dry)",
+      "title": "Dry Paneer Chilli",
+      "price": 14.99,
+      "image": "images/chinese-dry-3.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d90",
+      "location": "dominion",
+      "category": "Desi Chinese (Dry)",
+      "title": "Dry Veg Chilli",
+      "price": 13.99,
+      "image": "images/chinese-dry-4.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d91",
+      "location": "dominion",
+      "category": "Desi Chinese (Dry)",
+      "title": "Dry Gobhi Manchurian",
+      "price": 13.99,
+      "image": "images/chinese-dry-5.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d92",
+      "location": "dominion",
+      "category": "Desi Chinese (Dry)",
+      "title": "D.V Special 65 Veg",
+      "price": 13.99,
+      "image": "images/chinese-dry-6.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d93",
+      "location": "dominion",
+      "category": "Desi Chinese (Dry)",
+      "title": "D.V Special 65 Paneer",
+      "price": 14.99,
+      "image": "images/chinese-dry-7.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d94",
+      "location": "dominion",
+      "category": "Desi Chinese (Dry)",
+      "title": "D.V Special 65 Chaap",
+      "price": 13.99,
+      "image": "images/chinese-dry-8.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d95",
+      "location": "dominion",
+      "category": "Desi Chinese (Dry)",
+      "title": "Chilly Garlic Potato",
+      "price": 13.99,
+      "image": "images/chinese-dry-9.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d96",
+      "location": "dominion",
+      "category": "Desi Chinese (Dry)",
+      "title": "Idli Manchurian",
+      "price": 13.99,
+      "image": "images/chinese-dry-10.jpg",
+      "badge": ""
+    },
+
+    {
+      "id": "d97",
+      "location": "dominion",
+      "category": "Indo Chinese Mains",
+      "title": "Hakka Noodles",
+      "price": 14.99,
+      "image": "images/indo-chinese-1.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d98",
+      "location": "dominion",
+      "category": "Indo Chinese Mains",
+      "title": "Schezwan Noodles",
+      "price": 15.99,
+      "image": "images/indo-chinese-2.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d99",
+      "location": "dominion",
+      "category": "Indo Chinese Mains",
+      "title": "Chilli Paneer Noodles",
+      "price": 15.99,
+      "image": "images/indo-chinese-3.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d100",
+      "location": "dominion",
+      "category": "Indo Chinese Mains",
+      "title": "D.V Special Rice & Noodles",
+      "price": 17.99,
+      "image": "images/indo-chinese-4.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d101",
+      "location": "dominion",
+      "category": "Indo Chinese Mains",
+      "title": "Shanghai Rice",
+      "price": 15.99,
+      "image": "images/indo-chinese-5.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d102",
+      "location": "dominion",
+      "category": "Indo Chinese Mains",
+      "title": "Fried Rice",
+      "price": 13.99,
+      "image": "images/indo-chinese-6.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d103",
+      "location": "dominion",
+      "category": "Indo Chinese Mains",
+      "title": "Schezwan Rice",
+      "price": 14.99,
+      "image": "images/indo-chinese-7.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d104",
+      "location": "dominion",
+      "category": "Indo Chinese Mains",
+      "title": "Paneer Schezwan Rice",
+      "price": 16.99,
+      "image": "images/indo-chinese-8.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d105",
+      "location": "dominion",
+      "category": "Indo Chinese Mains",
+      "title": "Mushroom Schezwan Rice",
+      "price": 16.99,
+      "image": "images/indo-chinese-9.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d106",
+      "location": "dominion",
+      "category": "Indo Chinese Mains",
+      "title": "French Fries",
+      "price": 8.99,
+      "image": "images/indo-chinese-10.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d107",
+      "location": "dominion",
+      "category": "Indo Chinese Mains",
+      "title": "Honey Chili Potato",
+      "price": 14.99,
+      "image": "images/indo-chinese-11.jpg",
+      "badge": ""
+    },
+
+    {
+      "id": "d108",
+      "location": "dominion",
+      "category": "Soup",
+      "title": "Manchow Soup",
+      "price": 9.99,
+      "image": "images/soup-1.jpg",
+      "badge": ""
+    },
+    {
+      "id": "d109",
+      "location": "dominion",
+      "category": "Soup",
+      "title": "Hot And Sour Soup",
+      "price": 9.99,
+      "image": "images/soup-2.jpg",
+      "badge": ""
+    },
+
+    {
+      "id": "s1",
+      "location": "stoddard",
+      "category": "South Indian Dosa",
+      "title": "Sada Dosa",
+      "price": 9.99,
+      "image": "images/dosa-1.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s2",
+      "location": "stoddard",
+      "category": "South Indian Dosa",
+      "title": "Set Dosa",
+      "price": 11.99,
+      "image": "images/dosa-2.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s3",
+      "location": "stoddard",
+      "category": "South Indian Dosa",
+      "title": "Masala Dosa",
+      "price": 13.99,
+      "image": "images/dosa-3.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s4",
+      "location": "stoddard",
+      "category": "South Indian Dosa",
+      "title": "Open Dosa",
+      "price": 14.99,
+      "image": "images/dosa-4.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s5",
+      "location": "stoddard",
+      "category": "South Indian Dosa",
+      "title": "Onion Dosa",
+      "price": 13.99,
+      "image": "images/dosa-5.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s6",
+      "location": "stoddard",
+      "category": "South Indian Dosa",
+      "title": "Mysore Sada Dosa",
+      "price": 12.99,
+      "image": "images/dosa-6.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s7",
+      "location": "stoddard",
+      "category": "South Indian Dosa",
+      "title": "Mysore Masala Dosa",
+      "price": 14.99,
+      "image": "images/dosa-7.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s8",
+      "location": "stoddard",
+      "category": "South Indian Dosa",
+      "title": "Rocket Mysore Sada Dosa",
+      "price": 13.99,
+      "image": "images/dosa-8.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s9",
+      "location": "stoddard",
+      "category": "South Indian Dosa",
+      "title": "Hara Sada Dosa",
+      "price": 12.99,
+      "image": "images/dosa-9.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s10",
+      "location": "stoddard",
+      "category": "South Indian Dosa",
+      "title": "Hara Masala Dosa",
+      "price": 14.99,
+      "image": "images/dosa-10.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s11",
+      "location": "stoddard",
+      "category": "South Indian Dosa",
+      "title": "Pudy Roast Dosa",
+      "price": 14.99,
+      "image": "images/dosa-11.jpg",
+      "badge": ""
+    },
+
+    {
+      "id": "s12",
+      "location": "stoddard",
+      "category": "Golden Rava Dosa",
+      "title": "Rava Sada Dosa",
+      "price": 14.99,
+      "image": "images/rava-1.jpg",
+      "badge": "golden"
+    },
+    {
+      "id": "s13",
+      "location": "stoddard",
+      "category": "Golden Rava Dosa",
+      "title": "Rava Masala Dosa",
+      "price": 15.99,
+      "image": "images/rava-2.jpg",
+      "badge": "golden"
+    },
+    {
+      "id": "s14",
+      "location": "stoddard",
+      "category": "Golden Rava Dosa",
+      "title": "Rava Onion Sada Dosa",
+      "price": 15.99,
+      "image": "images/rava-3.jpg",
+      "badge": "golden"
+    },
+    {
+      "id": "s15",
+      "location": "stoddard",
+      "category": "Golden Rava Dosa",
+      "title": "Rava Onion Masala Dosa",
+      "price": 16.99,
+      "image": "images/rava-4.jpg",
+      "badge": "golden"
+    },
+    {
+      "id": "s16",
+      "location": "stoddard",
+      "category": "Golden Rava Dosa",
+      "title": "Golden Rava Masala Dosa",
+      "price": 18.99,
+      "image": "images/rava-5.jpg",
+      "badge": "golden"
+    },
+
+    {
+      "id": "s17",
+      "location": "stoddard",
+      "category": "Signature Spice Dosa",
+      "title": "Paneer Chinese Chili Dosa",
+      "price": 17.99,
+      "image": "images/signature-1.jpg",
+      "badge": "signature"
+    },
+    {
+      "id": "s18",
+      "location": "stoddard",
+      "category": "Signature Spice Dosa",
+      "title": "Paneer Salad Roast Dosa",
+      "price": 17.99,
+      "image": "images/signature-2.jpg",
+      "badge": "signature"
+    },
+    {
+      "id": "s19",
+      "location": "stoddard",
+      "category": "Signature Spice Dosa",
+      "title": "Mushroom Chopsuey Dosa",
+      "price": 17.99,
+      "image": "images/signature-3.jpg",
+      "badge": "signature"
+    },
+    {
+      "id": "s20",
+      "location": "stoddard",
+      "category": "Signature Spice Dosa",
+      "title": "Jam Roast Dosa",
+      "price": 14.99,
+      "image": "images/signature-4.jpg",
+      "badge": "signature"
+    },
+
+    {
+      "id": "s21",
+      "location": "stoddard",
+      "category": "Authentic Veg Uttapam",
+      "title": "Mini Uttapam",
+      "price": 12.99,
+      "image": "images/uttapam-1.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s22",
+      "location": "stoddard",
+      "category": "Authentic Veg Uttapam",
+      "title": "Plain Uttapam",
+      "price": 13.99,
+      "image": "images/uttapam-2.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s23",
+      "location": "stoddard",
+      "category": "Authentic Veg Uttapam",
+      "title": "Mix Uttapam",
+      "price": 14.99,
+      "image": "images/uttapam-3.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s24",
+      "location": "stoddard",
+      "category": "Authentic Veg Uttapam",
+      "title": "Onion Uttapam",
+      "price": 14.99,
+      "image": "images/uttapam-4.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s25",
+      "location": "stoddard",
+      "category": "Authentic Veg Uttapam",
+      "title": "Mysore Uttapam",
+      "price": 15.99,
+      "image": "images/uttapam-5.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s26",
+      "location": "stoddard",
+      "category": "Authentic Veg Uttapam",
+      "title": "Chinese Onion Delight Uttapam",
+      "price": 16.99,
+      "image": "images/uttapam-6.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s27",
+      "location": "stoddard",
+      "category": "Authentic Veg Uttapam",
+      "title": "Schezwan Uttapam",
+      "price": 16.99,
+      "image": "images/uttapam-7.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s28",
+      "location": "stoddard",
+      "category": "Authentic Veg Uttapam",
+      "title": "Hot Garlic Uttapam",
+      "price": 16.99,
+      "image": "images/uttapam-8.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s29",
+      "location": "stoddard",
+      "category": "Authentic Veg Uttapam",
+      "title": "Tom-Chi Uttapam",
+      "price": 16.99,
+      "image": "images/uttapam-9.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s30",
+      "location": "stoddard",
+      "category": "Authentic Veg Uttapam",
+      "title": "Sandwich Uttapam",
+      "price": 16.99,
+      "image": "images/uttapam-10.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s31",
+      "location": "stoddard",
+      "category": "Authentic Veg Uttapam",
+      "title": "Paneer Onion Uttapam",
+      "price": 15.99,
+      "image": "images/uttapam-11.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s32",
+      "location": "stoddard",
+      "category": "Authentic Veg Uttapam",
+      "title": "Paneer Onion Tomato Uttapam",
+      "price": 15.99,
+      "image": "images/uttapam-12.jpg",
+      "badge": ""
+    },
+
+    {
+      "id": "s33",
+      "location": "stoddard",
+      "category": "Global Twist Dosa",
+      "title": "Mexican Roast Dosa",
+      "price": 17.99,
+      "image": "images/global-1.jpg",
+      "badge": "global"
+    },
+    {
+      "id": "s34",
+      "location": "stoddard",
+      "category": "Global Twist Dosa",
+      "title": "Spring Roll Dosa",
+      "price": 16.99,
+      "image": "images/global-2.jpg",
+      "badge": "global"
+    },
+    {
+      "id": "s35",
+      "location": "stoddard",
+      "category": "Global Twist Dosa",
+      "title": "Mexi Roll Dosa",
+      "price": 17.99,
+      "image": "images/global-3.jpg",
+      "badge": "global"
+    },
+    {
+      "id": "s36",
+      "location": "stoddard",
+      "category": "Global Twist Dosa",
+      "title": "Red Chilli Dosa",
+      "price": 18.99,
+      "image": "images/global-4.jpg",
+      "badge": "global"
+    },
+    {
+      "id": "s37",
+      "location": "stoddard",
+      "category": "Global Twist Dosa",
+      "title": "Schezwan Stuffed Dosa",
+      "price": 18.99,
+      "image": "images/global-5.jpg",
+      "badge": "global"
+    },
+    {
+      "id": "s38",
+      "location": "stoddard",
+      "category": "Global Twist Dosa",
+      "title": "Schezwan Paneer Dosa",
+      "price": 18.99,
+      "image": "images/global-6.jpg",
+      "badge": "global"
+    },
+    {
+      "id": "s39",
+      "location": "stoddard",
+      "category": "Global Twist Dosa",
+      "title": "Schezwan Mushroom Dosa",
+      "price": 18.99,
+      "image": "images/global-7.jpg",
+      "badge": "global"
+    },
+    {
+      "id": "s40",
+      "location": "stoddard",
+      "category": "Global Twist Dosa",
+      "title": "Paneer Chilli Dosa",
+      "price": 19.99,
+      "image": "images/global-8.jpg",
+      "badge": "global"
+    },
+    {
+      "id": "s41",
+      "location": "stoddard",
+      "category": "Global Twist Dosa",
+      "title": "Chinese Delight Dosa",
+      "price": 19.99,
+      "image": "images/global-9.jpg",
+      "badge": "global"
+    },
+    {
+      "id": "s42",
+      "location": "stoddard",
+      "category": "Global Twist Dosa",
+      "title": "American Delight Dosa",
+      "price": 19.99,
+      "image": "images/global-10.jpg",
+      "badge": "global"
+    },
+    {
+      "id": "s43",
+      "location": "stoddard",
+      "category": "Global Twist Dosa",
+      "title": "Paneer Crispy Dosa",
+      "price": 19.99,
+      "image": "images/global-11.jpg",
+      "badge": "global"
+    },
+    {
+      "id": "s44",
+      "location": "stoddard",
+      "category": "Global Twist Dosa",
+      "title": "Gotala Dosa",
+      "price": 19.99,
+      "image": "images/global-12.jpg",
+      "badge": "global"
+    },
+
+    {
+      "id": "s45",
+      "location": "stoddard",
+      "category": "Chef Special Recipe Dosa",
+      "title": "D.V Special Dosa",
+      "price": 12.99,
+      "image": "images/chef-1.jpg",
+      "badge": "chef-special"
+    },
+    {
+      "id": "s46",
+      "location": "stoddard",
+      "category": "Chef Special Recipe Dosa",
+      "title": "D.V Special Masala Dosa",
+      "price": 14.99,
+      "image": "images/chef-2.jpg",
+      "badge": "chef-special"
+    },
+    {
+      "id": "s47",
+      "location": "stoddard",
+      "category": "Chef Special Recipe Dosa",
+      "title": "D.V Chef Special Dosa",
+      "price": 16.99,
+      "image": "images/chef-3.jpg",
+      "badge": "chef-special"
+    },
+    {
+      "id": "s48",
+      "location": "stoddard",
+      "category": "Chef Special Recipe Dosa",
+      "title": "D.V Special Garlic Roast Dosa",
+      "price": 17.99,
+      "image": "images/chef-4.jpg",
+      "badge": "chef-special"
+    },
+    {
+      "id": "s49",
+      "location": "stoddard",
+      "category": "Chef Special Recipe Dosa",
+      "title": "D.V Chopshey Dosa",
+      "price": 18.99,
+      "image": "images/chef-5.jpg",
+      "badge": "chef-special"
+    },
+    {
+      "id": "s50",
+      "location": "stoddard",
+      "category": "Chef Special Recipe Dosa",
+      "title": "D.V Spicy Special Dosa",
+      "price": 14.99,
+      "image": "images/chef-6.jpg",
+      "badge": "chef-special"
+    },
+    {
+      "id": "s51",
+      "location": "stoddard",
+      "category": "Chef Special Recipe Dosa",
+      "title": "D.V Paneer Chopshey Dosa",
+      "price": 17.99,
+      "image": "images/chef-7.jpg",
+      "badge": "chef-special"
+    },
+    {
+      "id": "s52",
+      "location": "stoddard",
+      "category": "Chef Special Recipe Dosa",
+      "title": "D.V Paneer Delight Dosa",
+      "price": 20.99,
+      "image": "images/chef-8.jpg",
+      "badge": "chef-special"
+    },
+    {
+      "id": "s53",
+      "location": "stoddard",
+      "category": "Chef Special Recipe Dosa",
+      "title": "D.V Special Jini Dosa",
+      "price": 18.99,
+      "image": "images/chef-9.jpg",
+      "badge": "chef-special"
+    },
+    {
+      "id": "s54",
+      "location": "stoddard",
+      "category": "Chef Special Recipe Dosa",
+      "title": "D.V Big Paper Roast Dosa",
+      "price": 22.99,
+      "image": "images/chef-10.jpg",
+      "badge": "chef-special"
+    },
+    {
+      "id": "s55",
+      "location": "stoddard",
+      "category": "Chef Special Recipe Dosa",
+      "title": "D.V Special Big Paper Roast Dosa",
+      "price": 25.99,
+      "image": "images/chef-11.jpg",
+      "badge": "chef-special"
+    },
+
+    {
+      "id": "s56",
+      "location": "stoddard",
+      "category": "Healthy Idli & Vada",
+      "title": "Soft Idli (3 pcs)",
+      "price": 9.99,
+      "image": "images/idli-1.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s57",
+      "location": "stoddard",
+      "category": "Healthy Idli & Vada",
+      "title": "D.V Special Sambar Idli",
+      "price": 12.99,
+      "image": "images/idli-2.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s58",
+      "location": "stoddard",
+      "category": "Healthy Idli & Vada",
+      "title": "D.V Special Pudy Idli",
+      "price": 12.99,
+      "image": "images/idli-3.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s59",
+      "location": "stoddard",
+      "category": "Healthy Idli & Vada",
+      "title": "D.V Special Onion Cheese Idli",
+      "price": 12.99,
+      "image": "images/idli-4.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s60",
+      "location": "stoddard",
+      "category": "Healthy Idli & Vada",
+      "title": "Medu Vada (3 pcs)",
+      "price": 9.99,
+      "image": "images/vada-1.jpg",
+      "badge": ""
+    },
+
+    {
+      "id": "s61",
+      "location": "stoddard",
+      "category": "Drinks",
+      "title": "Masala Tea (Small)",
+      "price": 2.0,
+      "image": "images/drink-1.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s62",
+      "location": "stoddard",
+      "category": "Drinks",
+      "title": "Masala Tea (Large)",
+      "price": 4.0,
+      "image": "images/drink-2.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s63",
+      "location": "stoddard",
+      "category": "Drinks",
+      "title": "Filter Coffee",
+      "price": 4.99,
+      "image": "images/drink-3.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s64",
+      "location": "stoddard",
+      "category": "Drinks",
+      "title": "Soft Drink",
+      "price": 3.0,
+      "image": "images/drink-4.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s65",
+      "location": "stoddard",
+      "category": "Drinks",
+      "title": "Water",
+      "price": 2.0,
+      "image": "images/drink-5.jpg",
+      "badge": ""
+    },
+
+    {
+      "id": "s66",
+      "location": "stoddard",
+      "category": "North India Steam & Spicy",
+      "title": "Schezwan Momo",
+      "price": 12.99,
+      "image": "images/momo-1.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s67",
+      "location": "stoddard",
+      "category": "North India Steam & Spicy",
+      "title": "Fried Momo",
+      "price": 11.99,
+      "image": "images/momo-2.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s68",
+      "location": "stoddard",
+      "category": "North India Steam & Spicy",
+      "title": "Soya Chilli Momo",
+      "price": 12.99,
+      "image": "images/momo-3.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s69",
+      "location": "stoddard",
+      "category": "North India Steam & Spicy",
+      "title": "Mumbai Pav Bhaji",
+      "price": 10.99,
+      "image": "images/north-1.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s70",
+      "location": "stoddard",
+      "category": "North India Steam & Spicy",
+      "title": "Chole Bhature",
+      "price": 10.99,
+      "image": "images/north-2.jpg",
+      "badge": ""
+    },
+
+    {
+      "id": "s71",
+      "location": "stoddard",
+      "category": "Aakhri Pasta",
+      "title": "Chef Special Pasta",
+      "price": 14.99,
+      "image": "images/pasta-1.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s72",
+      "location": "stoddard",
+      "category": "Aakhri Pasta",
+      "title": "Creamy Alfredo Pasta",
+      "price": 14.99,
+      "image": "images/pasta-2.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s73",
+      "location": "stoddard",
+      "category": "Aakhri Pasta",
+      "title": "Penne Arrabiata Pasta",
+      "price": 14.99,
+      "image": "images/pasta-3.jpg",
+      "badge": ""
+    },
+
+    {
+      "id": "s74",
+      "location": "stoddard",
+      "category": "Desi Street Food",
+      "title": "Masala Pani Puri (6 Pcs)",
+      "price": 9.99,
+      "image": "images/street-1.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s75",
+      "location": "stoddard",
+      "category": "Desi Street Food",
+      "title": "Sev Batata Puri (8 Pcs)",
+      "price": 9.99,
+      "image": "images/street-2.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s76",
+      "location": "stoddard",
+      "category": "Desi Street Food",
+      "title": "Dahi Batata Puri (6 pcs)",
+      "price": 9.99,
+      "image": "images/street-3.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s77",
+      "location": "stoddard",
+      "category": "Desi Street Food",
+      "title": "Bhel Puri",
+      "price": 9.99,
+      "image": "images/street-4.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s78",
+      "location": "stoddard",
+      "category": "Desi Street Food",
+      "title": "Chinese Bhel",
+      "price": 10.99,
+      "image": "images/street-5.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s79",
+      "location": "stoddard",
+      "category": "Desi Street Food",
+      "title": "Dahi Vada",
+      "price": 9.99,
+      "image": "images/street-6.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s80",
+      "location": "stoddard",
+      "category": "Desi Street Food",
+      "title": "Samosa Chaat",
+      "price": 9.99,
+      "image": "images/street-7.jpg",
+      "badge": ""
+    },
+
+    {
+      "id": "s81",
+      "location": "stoddard",
+      "category": "Desi Chinese (Gravy)",
+      "title": "Veg Manchurian (Gravy)",
+      "price": 14.99,
+      "image": "images/chinese-gravy-1.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s82",
+      "location": "stoddard",
+      "category": "Desi Chinese (Gravy)",
+      "title": "Gobhi Manchurian (Gravy)",
+      "price": 14.99,
+      "image": "images/chinese-gravy-2.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s83",
+      "location": "stoddard",
+      "category": "Desi Chinese (Gravy)",
+      "title": "Paneer Chilli (Gravy)",
+      "price": 14.99,
+      "image": "images/chinese-gravy-3.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s84",
+      "location": "stoddard",
+      "category": "Desi Chinese (Gravy)",
+      "title": "Cashew Paneer Chilli (Gravy)",
+      "price": 14.99,
+      "image": "images/chinese-gravy-4.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s85",
+      "location": "stoddard",
+      "category": "Desi Chinese (Gravy)",
+      "title": "Paneer Manchurian (Gravy)",
+      "price": 14.99,
+      "image": "images/chinese-gravy-5.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s86",
+      "location": "stoddard",
+      "category": "Desi Chinese (Gravy)",
+      "title": "D.V Special (Gravy)",
+      "price": 14.99,
+      "image": "images/chinese-gravy-6.jpg",
+      "badge": ""
+    },
+
+    {
+      "id": "s87",
+      "location": "stoddard",
+      "category": "Desi Chinese (Dry)",
+      "title": "Dry Manchurian",
+      "price": 13.99,
+      "image": "images/chinese-dry-1.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s88",
+      "location": "stoddard",
+      "category": "Desi Chinese (Dry)",
+      "title": "Dry Paneer Manchurian",
+      "price": 14.99,
+      "image": "images/chinese-dry-2.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s89",
+      "location": "stoddard",
+      "category": "Desi Chinese (Dry)",
+      "title": "Dry Paneer Chilli",
+      "price": 14.99,
+      "image": "images/chinese-dry-3.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s90",
+      "location": "stoddard",
+      "category": "Desi Chinese (Dry)",
+      "title": "Dry Veg Chilli",
+      "price": 13.99,
+      "image": "images/chinese-dry-4.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s91",
+      "location": "stoddard",
+      "category": "Desi Chinese (Dry)",
+      "title": "Dry Gobhi Manchurian",
+      "price": 13.99,
+      "image": "images/chinese-dry-5.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s92",
+      "location": "stoddard",
+      "category": "Desi Chinese (Dry)",
+      "title": "D.V Special 65 Veg",
+      "price": 13.99,
+      "image": "images/chinese-dry-6.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s93",
+      "location": "stoddard",
+      "category": "Desi Chinese (Dry)",
+      "title": "D.V Special 65 Paneer",
+      "price": 14.99,
+      "image": "images/chinese-dry-7.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s94",
+      "location": "stoddard",
+      "category": "Desi Chinese (Dry)",
+      "title": "D.V Special 65 Chaap",
+      "price": 13.99,
+      "image": "images/chinese-dry-8.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s95",
+      "location": "stoddard",
+      "category": "Desi Chinese (Dry)",
+      "title": "Chilly Garlic Potato",
+      "price": 13.99,
+      "image": "images/chinese-dry-9.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s96",
+      "location": "stoddard",
+      "category": "Desi Chinese (Dry)",
+      "title": "Idli Manchurian",
+      "price": 13.99,
+      "image": "images/chinese-dry-10.jpg",
+      "badge": ""
+    },
+
+    {
+      "id": "s97",
+      "location": "stoddard",
+      "category": "Indo Chinese Mains",
+      "title": "Hakka Noodles",
+      "price": 14.99,
+      "image": "images/indo-chinese-1.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s98",
+      "location": "stoddard",
+      "category": "Indo Chinese Mains",
+      "title": "Schezwan Noodles",
+      "price": 15.99,
+      "image": "images/indo-chinese-2.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s99",
+      "location": "stoddard",
+      "category": "Indo Chinese Mains",
+      "title": "Chilli Paneer Noodles",
+      "price": 15.99,
+      "image": "images/indo-chinese-3.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s100",
+      "location": "stoddard",
+      "category": "Indo Chinese Mains",
+      "title": "D.V Special Rice & Noodles",
+      "price": 17.99,
+      "image": "images/indo-chinese-4.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s101",
+      "location": "stoddard",
+      "category": "Indo Chinese Mains",
+      "title": "Shanghai Rice",
+      "price": 15.99,
+      "image": "images/indo-chinese-5.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s102",
+      "location": "stoddard",
+      "category": "Indo Chinese Mains",
+      "title": "Fried Rice",
+      "price": 13.99,
+      "image": "images/indo-chinese-6.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s103",
+      "location": "stoddard",
+      "category": "Indo Chinese Mains",
+      "title": "Schezwan Rice",
+      "price": 14.99,
+      "image": "images/indo-chinese-7.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s104",
+      "location": "stoddard",
+      "category": "Indo Chinese Mains",
+      "title": "Paneer Schezwan Rice",
+      "price": 16.99,
+      "image": "images/indo-chinese-8.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s105",
+      "location": "stoddard",
+      "category": "Indo Chinese Mains",
+      "title": "Mushroom Schezwan Rice",
+      "price": 16.99,
+      "image": "images/indo-chinese-9.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s106",
+      "location": "stoddard",
+      "category": "Indo Chinese Mains",
+      "title": "French Fries",
+      "price": 8.99,
+      "image": "images/indo-chinese-10.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s107",
+      "location": "stoddard",
+      "category": "Indo Chinese Mains",
+      "title": "Honey Chili Potato",
+      "price": 14.99,
+      "image": "images/indo-chinese-11.jpg",
+      "badge": ""
+    },
+
+    {
+      "id": "s108",
+      "location": "stoddard",
+      "category": "Soup",
+      "title": "Manchow Soup",
+      "price": 9.99,
+      "image": "images/soup-1.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s109",
+      "location": "stoddard",
+      "category": "Soup",
+      "title": "Hot And Sour Soup",
+      "price": 9.99,
+      "image": "images/soup-2.jpg",
+      "badge": ""
+    },
+
+    {
+      "id": "s110",
+      "location": "stoddard",
+      "category": "Tandoori",
+      "title": "Tandoori Seekh Kabab",
+      "price": 15.99,
+      "image": "images/tandoori-1.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s111",
+      "location": "stoddard",
+      "category": "Tandoori",
+      "title": "Tandoori Allo Kabab",
+      "price": 15.99,
+      "image": "images/tandoori-2.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s112",
+      "location": "stoddard",
+      "category": "Tandoori",
+      "title": "Tandoori Chaap",
+      "price": 15.99,
+      "image": "images/tandoori-3.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s113",
+      "location": "stoddard",
+      "category": "Tandoori",
+      "title": "Malai Chaap",
+      "price": 16.99,
+      "image": "images/tandoori-4.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s114",
+      "location": "stoddard",
+      "category": "Tandoori",
+      "title": "Tandoori Momo",
+      "price": 16.99,
+      "image": "images/tandoori-5.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s115",
+      "location": "stoddard",
+      "category": "Tandoori",
+      "title": "Panner Tikka Kabab",
+      "price": 17.99,
+      "image": "images/tandoori-6.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s116",
+      "location": "stoddard",
+      "category": "Tandoori",
+      "title": "Paneer Bhuji",
+      "price": 19.99,
+      "image": "images/tandoori-7.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s117",
+      "location": "stoddard",
+      "category": "Tandoori",
+      "title": "Kaju Paneer Masala",
+      "price": 19.99,
+      "image": "images/tandoori-8.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s118",
+      "location": "stoddard",
+      "category": "Tandoori",
+      "title": "Daal Fry",
+      "price": 18.99,
+      "image": "images/tandoori-9.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s119",
+      "location": "stoddard",
+      "category": "Tandoori",
+      "title": "Daal Hariyali",
+      "price": 18.99,
+      "image": "images/tandoori-10.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s120",
+      "location": "stoddard",
+      "category": "Tandoori",
+      "title": "Daal Panchratna",
+      "price": 18.99,
+      "image": "images/tandoori-11.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s121",
+      "location": "stoddard",
+      "category": "Tandoori",
+      "title": "Daal Makhni",
+      "price": 19.99,
+      "image": "images/tandoori-12.jpg",
+      "badge": ""
+    },
+
+    {
+      "id": "s122",
+      "location": "stoddard",
+      "category": "Fryer",
+      "title": "Harabhara Kabab",
+      "price": 15.99,
+      "image": "images/fryer-1.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s123",
+      "location": "stoddard",
+      "category": "Fryer",
+      "title": "Loaded Special Masala Fries",
+      "price": 14.99,
+      "image": "images/fryer-2.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s124",
+      "location": "stoddard",
+      "category": "Fryer",
+      "title": "Cheese Corn Bowl",
+      "price": 15.99,
+      "image": "images/fryer-3.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s125",
+      "location": "stoddard",
+      "category": "Fryer",
+      "title": "Veg Spring Roll",
+      "price": 14.99,
+      "image": "images/fryer-4.jpg",
+      "badge": ""
+    },
+
+    {
+      "id": "s126",
+      "location": "stoddard",
+      "category": "Chines (Sizzler)",
+      "title": "Veg Manchurian Sizzler",
+      "price": 25.99,
+      "image": "images/sizzler-1.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s127",
+      "location": "stoddard",
+      "category": "Chines (Sizzler)",
+      "title": "Veg Sezwan Sizzler",
+      "price": 25.99,
+      "image": "images/sizzler-2.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s128",
+      "location": "stoddard",
+      "category": "Chines (Sizzler)",
+      "title": "Panner Tikka Sizzler",
+      "price": 25.99,
+      "image": "images/sizzler-3.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s129",
+      "location": "stoddard",
+      "category": "Chines (Sizzler)",
+      "title": "Italian Pasta Sizzler",
+      "price": 25.99,
+      "image": "images/sizzler-4.jpg",
+      "badge": ""
+    },
+
+    {
+      "id": "s130",
+      "location": "stoddard",
+      "category": "D.V Special Currys",
+      "title": "Butter Paneer Masala",
+      "price": 19.99,
+      "image": "images/curry-1.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s131",
+      "location": "stoddard",
+      "category": "D.V Special Currys",
+      "title": "Aloo Mutter",
+      "price": 18.99,
+      "image": "images/curry-2.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s132",
+      "location": "stoddard",
+      "category": "D.V Special Currys",
+      "title": "Aloo Gobi",
+      "price": 18.99,
+      "image": "images/curry-3.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s133",
+      "location": "stoddard",
+      "category": "D.V Special Currys",
+      "title": "Jeera Aloo",
+      "price": 18.99,
+      "image": "images/curry-4.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s134",
+      "location": "stoddard",
+      "category": "D.V Special Currys",
+      "title": "Veg Kolhapur",
+      "price": 18.99,
+      "image": "images/curry-5.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s135",
+      "location": "stoddard",
+      "category": "D.V Special Currys",
+      "title": "Veg Jalferezi",
+      "price": 18.99,
+      "image": "images/curry-6.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s136",
+      "location": "stoddard",
+      "category": "D.V Special Currys",
+      "title": "Veg Makkhan Wala",
+      "price": 18.99,
+      "image": "images/curry-7.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s137",
+      "location": "stoddard",
+      "category": "D.V Special Currys",
+      "title": "Veg Korma",
+      "price": 18.99,
+      "image": "images/curry-8.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s138",
+      "location": "stoddard",
+      "category": "D.V Special Currys",
+      "title": "Veg Pudina Kali Mirchi",
+      "price": 18.99,
+      "image": "images/curry-9.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s139",
+      "location": "stoddard",
+      "category": "D.V Special Currys",
+      "title": "D.V Special Curry",
+      "price": 19.99,
+      "image": "images/curry-10.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s140",
+      "location": "stoddard",
+      "category": "D.V Special Currys",
+      "title": "Panner Tikka Masla",
+      "price": 19.99,
+      "image": "images/curry-11.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s141",
+      "location": "stoddard",
+      "category": "D.V Special Currys",
+      "title": "Kadahi Paneer",
+      "price": 19.99,
+      "image": "images/curry-12.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s142",
+      "location": "stoddard",
+      "category": "D.V Special Currys",
+      "title": "Palak Paneer",
+      "price": 19.99,
+      "image": "images/curry-13.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s143",
+      "location": "stoddard",
+      "category": "D.V Special Currys",
+      "title": "Adraki Lasoon Dhaniya Paneer",
+      "price": 19.99,
+      "image": "images/curry-14.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s144",
+      "location": "stoddard",
+      "category": "D.V Special Currys",
+      "title": "Mutter Paneer",
+      "price": 19.99,
+      "image": "images/curry-15.jpg",
+      "badge": ""
+    },
+
+    {
+      "id": "s145",
+      "location": "stoddard",
+      "category": "Bread / Naan",
+      "title": "Naan",
+      "price": 3.99,
+      "image": "images/bread-1.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s146",
+      "location": "stoddard",
+      "category": "Bread / Naan",
+      "title": "Butter Naan",
+      "price": 4.99,
+      "image": "images/bread-2.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s147",
+      "location": "stoddard",
+      "category": "Bread / Naan",
+      "title": "Garlic Naan",
+      "price": 4.99,
+      "image": "images/bread-3.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s148",
+      "location": "stoddard",
+      "category": "Bread / Naan",
+      "title": "D.v Special Naan",
+      "price": 5.99,
+      "image": "images/bread-4.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s149",
+      "location": "stoddard",
+      "category": "Bread / Naan",
+      "title": "Lachha Paratha",
+      "price": 4.99,
+      "image": "images/bread-5.jpg",
+      "badge": ""
+    },
+
+    {
+      "id": "s150",
+      "location": "stoddard",
+      "category": "Rice",
+      "title": "Steam Rice",
+      "price": 4.99,
+      "image": "images/rice-1.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s151",
+      "location": "stoddard",
+      "category": "Rice",
+      "title": "Jeera Rice",
+      "price": 10.99,
+      "image": "images/rice-2.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s152",
+      "location": "stoddard",
+      "category": "Rice",
+      "title": "Tawa Pulao",
+      "price": 18.99,
+      "image": "images/rice-3.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s153",
+      "location": "stoddard",
+      "category": "Rice",
+      "title": "Mix Veg Biryani",
+      "price": 19.99,
+      "image": "images/rice-4.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s154",
+      "location": "stoddard",
+      "category": "Rice",
+      "title": "Lemon Rice",
+      "price": 14.99,
+      "image": "images/rice-5.jpg",
+      "badge": ""
+    },
+
+    {
+      "id": "s155",
+      "location": "stoddard",
+      "category": "Sides",
+      "title": "Yoghurt",
+      "price": 4.99,
+      "image": "images/sides-1.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s156",
+      "location": "stoddard",
+      "category": "Sides",
+      "title": "Raita",
+      "price": 6.99,
+      "image": "images/sides-2.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s157",
+      "location": "stoddard",
+      "category": "Sides",
+      "title": "Papadum (3pcs)",
+      "price": 4.99,
+      "image": "images/sides-3.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s158",
+      "location": "stoddard",
+      "category": "Sides",
+      "title": "Green Salad",
+      "price": 9.99,
+      "image": "images/sides-4.jpg",
+      "badge": ""
+    },
+
+    {
+      "id": "s159",
+      "location": "stoddard",
+      "category": "Dessert",
+      "title": "Gulab Jamun With Ice Cream",
+      "price": 11.99,
+      "image": "images/dessert-1.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s160",
+      "location": "stoddard",
+      "category": "Dessert",
+      "title": "D.V Special Cream Salad",
+      "price": 12.99,
+      "image": "images/dessert-2.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s161",
+      "location": "stoddard",
+      "category": "Dessert",
+      "title": "D.v Special Mango Falooda",
+      "price": 12.99,
+      "image": "images/dessert-3.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s162",
+      "location": "stoddard",
+      "category": "Dessert",
+      "title": "D.v Special Royal Falooda",
+      "price": 12.99,
+      "image": "images/dessert-4.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s163",
+      "location": "stoddard",
+      "category": "Dessert",
+      "title": "Mango Lassi",
+      "price": 5.99,
+      "image": "images/dessert-5.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s164",
+      "location": "stoddard",
+      "category": "Dessert",
+      "title": "Sweet Lassi",
+      "price": 4.99,
+      "image": "images/dessert-6.jpg",
+      "badge": ""
+    },
+    {
+      "id": "s165",
+      "location": "stoddard",
+      "category": "Dessert",
+      "title": "Butter Lassi",
+      "price": 5.99,
+      "image": "images/dessert-7.jpg",
+      "badge": ""
+    }
+  ]
+}

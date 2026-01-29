@@ -312,12 +312,14 @@ button {
 .categories {
   box-shadow: 0 14px 35px rgba(0, 0, 0, 0.08);
   border: 1px solid rgba(0, 0, 0, 0.05);
-  background: gold;
   border-bottom-left-radius: 16px;
   border-bottom-right-radius: 16px;
   border-top-left-radius: 50px;
   border-top-right-radius: 50px;
+
   background: url("");
+    background: gold;
+
   padding: 8px;
 }
 
@@ -575,7 +577,7 @@ button {
   }
 
   .hero-content {
-    padding: 1.35rem 0 1.05rem;
+    padding: 3.35rem 0 1.05rem;
   }
 
   .hero-title {

@@ -148,7 +148,7 @@ button {
 .hero-content {
   position: relative;
   z-index: 5;
-  padding: 2.2rem 0 1.8rem;
+  padding: 4.5rem 0 3rem;
   text-align: center;
   color: #fff;
 }
@@ -168,7 +168,7 @@ button {
 /* Carousel */
 .hero-carousel {
   position: relative;
-  height: 360px;
+  height: 450px;
   z-index: 2;
 }
 
@@ -190,7 +190,7 @@ button {
 
 .carousel-slide img {
   width: 100%;
-  height: 360px;
+  height: 450px;
   object-fit: cover;
 }
 
@@ -278,7 +278,9 @@ button {
   border-radius: 999px;
   border: 1px solid rgba(255, 255, 255, 0.25);
   background: rgba(255, 255, 255, 0.08);
+
   color: #ffffff;
+  color: black;
   padding: 0.9rem 1.5rem;
   font-size: 1rem;
   font-weight: 600;
@@ -301,7 +303,8 @@ button {
 
 .location-btn.active {
   background: linear-gradient(135deg, #ffdd36, #14a44d);
-  color: #ffffff;
+  background: gold;
+  color: black;
   border-color: transparent;
 }
 

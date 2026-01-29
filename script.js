@@ -236,3 +236,43 @@ const yearSpan = document.getElementById("year");
 if (yearSpan) {
   yearSpan.textContent = new Date().getFullYear();
 }
+
+// ---------------------------
+// Mobile hamburger drawer
+// ---------------------------
+const hamburgerBtn = document.getElementById("hamburger-btn");
+const drawer = document.getElementById("mobile-drawer");
+const overlay = document.getElementById("drawer-overlay");
+const drawerClose = document.getElementById("drawer-close");
+
+function openDrawer() {
+  if (!drawer || !overlay || !hamburgerBtn) return;
+  drawer.classList.add("open");
+  overlay.hidden = false;
+  drawer.setAttribute("aria-hidden", "false");
+  hamburgerBtn.setAttribute("aria-expanded", "true");
+  document.body.classList.add("no-scroll");
+}
+
+function closeDrawer() {
+  if (!drawer || !overlay || !hamburgerBtn) return;
+  drawer.classList.remove("open");
+  overlay.hidden = true;
+  drawer.setAttribute("aria-hidden", "true");
+  hamburgerBtn.setAttribute("aria-expanded", "false");
+  document.body.classList.remove("no-scroll");
+}
+
+if (hamburgerBtn) hamburgerBtn.addEventListener("click", openDrawer);
+if (drawerClose) drawerClose.addEventListener("click", closeDrawer);
+if (overlay) overlay.addEventListener("click", closeDrawer);
+
+if (drawer) {
+  drawer.addEventListener("click", (e) => {
+    const target = e.target;
+    if (!(target instanceof HTMLElement)) return;
+    if (target.closest("a")) closeDrawer();
+  });
+}window.addEventListener("keydown", (e) => {
+  if (e.key === "Escape") closeDrawer();
+});

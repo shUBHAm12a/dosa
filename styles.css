@@ -163,6 +163,7 @@ button {
   margin-top: 0.35rem;
   opacity: 0.9;
   font-size: 1rem;
+  font-weight: 500;
 }
 
 /* Carousel */
@@ -306,6 +307,18 @@ button {
   background: gold;
   color: black;
   border-color: transparent;
+}
+
+.categories {
+  box-shadow: 0 14px 35px rgba(0, 0, 0, 0.08);
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  background: gold;
+  border-bottom-left-radius: 16px;
+  border-bottom-right-radius: 16px;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  background: url("");
+  padding: 8px;
 }
 
 /* Menu page (reference-style) */

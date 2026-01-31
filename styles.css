@@ -160,7 +160,7 @@ button {
 }
 
 .hero-subtitle {
-  margin-top: 0.35rem;
+  margin-top: 1rem;
   opacity: 0.9;
   font-size: 1rem;
   font-weight: 500;
@@ -318,7 +318,7 @@ button {
   border-top-right-radius: 50px;
 
   background: url("");
-    background: gold;
+  background: gold;
 
   padding: 8px;
 }
@@ -577,7 +577,7 @@ button {
   }
 
   .hero-content {
-    padding: 3.35rem 0 1.05rem;
+    padding: 4.35rem 0 1.05rem;
   }
 
   .hero-title {

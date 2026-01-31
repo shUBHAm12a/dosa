@@ -6,7 +6,7 @@
       "category": "South Indian Dosa",
       "title": "Sada Dosa",
       "price": 9.99,
-      "image": "https://i.pinimg.com/736x/74/1a/16/741a167c5ba52b975a74f3ff7a1b8288.jpg",
+      "image": "https://dmlxzvnzyohme.cloudfront.net/2013/08/_1200x630_crop_center-center_82_none_ns/nk-wgbh-masala-dosa640x360.jpg",
       "badge": ""
     },
     {
@@ -15,7 +15,7 @@
       "category": "South Indian Dosa",
       "title": "Set Dosa",
       "price": 11.99,
-      "image": "https://i.pinimg.com/736x/a6/17/bc/a617bc8d9f6617853cfbe3a648a39216.jpg",
+      "image": "https://simpleindianrecipes.com/portals/0/sirimages/Set-Dosa-M.jpg",
       "badge": ""
     },
     {
@@ -24,7 +24,7 @@
       "category": "South Indian Dosa",
       "title": "Masala Dosa",
       "price": 13.99,
-      "image": "https://i.pinimg.com/736x/07/38/83/073883d487775529d2449cfb4b30b3eb.jpg",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/masala-dosa-recipe-500x500.jpg",
       "badge": ""
     },
     {
@@ -33,7 +33,7 @@
       "category": "South Indian Dosa",
       "title": "Open Dosa",
       "price": 14.99,
-      "image": "https://i.pinimg.com/736x/33/e0/df/33e0dfe2b6f780b80cc2a87a386627bf.jpg",
+      "image": "https://dmlxzvnzyohme.cloudfront.net/2013/08/_800x418_crop_center-center_82_none_ns/nk-wgbh-masala-dosa640x360.jpg",
       "badge": ""
     },
     {
@@ -42,7 +42,7 @@
       "category": "South Indian Dosa",
       "title": "Onion Dosa",
       "price": 13.99,
-      "image": "https://i.pinimg.com/736x/9d/9e/4b/9d9e4b4430cc7740071a7e21fb8dea30.jpg",
+      "image": "https://media.vyaparify.com/vcards/products/177902/product_1743505073_67ebc6b142392.png",
       "badge": ""
     },
     {
@@ -51,7 +51,7 @@
       "category": "South Indian Dosa",
       "title": "Mysore Sada Dosa",
       "price": 12.99,
-      "image": "https://i.pinimg.com/736x/18/52/db/1852db843593d5bb3ec3788de559f14e.jpg",
+      "image": "https://www.yummytummyaarthi.com/wp-content/uploads/2012/01/1-1.jpeg",
       "badge": ""
     },
     {
@@ -60,7 +60,7 @@
       "category": "South Indian Dosa",
       "title": "Mysore Masala Dosa",
       "price": 14.99,
-      "image": "https://i.pinimg.com/736x/fa/11/f3/fa11f3cf15fceb64d1d30cc37e742bc9.jpg",
+      "image": "https://myfoodstory.com/wp-content/uploads/2025/08/Mysore-Masala-Dosa-Recipe-3.jpg",
       "badge": ""
     },
     {
@@ -69,7 +69,7 @@
       "category": "South Indian Dosa",
       "title": "Rocket Mysore Sada Dosa",
       "price": 13.99,
-      "image": "https://i.pinimg.com/736x/52/0c/d3/520cd3d423da60c052f34945bdcce150.jpg",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0b/ed/37/d5/mysore-rocket-sada-dosa.jpg",
       "badge": ""
     },
     {
@@ -78,7 +78,7 @@
       "category": "South Indian Dosa",
       "title": "Hara Sada Dosa",
       "price": 12.99,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4mNp64Fvq-DkCkTtev1XxN0LPQQ60Lrs4sw&s",
+      "image": "https://img-global.cpcdn.com/recipes/ff3b6e216d3d2150/680x482cq70/butter-sada-crispy-dosa-recipe-main-photo.jpg",
       "badge": ""
     },
     {
@@ -87,7 +87,7 @@
       "category": "South Indian Dosa",
       "title": "Hara Masala Dosa",
       "price": 14.99,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs2vyFPIK1gLkBKwAxur7_Xw_I9KQTtZWhuw&s",
+      "image": "https://img-global.cpcdn.com/recipes/ff3b6e216d3d2150/680x482cq70/butter-sada-crispy-dosa-recipe-main-photo.jpg",
       "badge": ""
     },
     {
@@ -99,14 +99,13 @@
       "image": "https://s7ap1.scene7.com/is/image/itcportalprod/Podi%20dosa%20desktop%20images",
       "badge": ""
     },
-
     {
       "id": "d12",
       "location": "dominion",
       "category": "Golden Rava Dosa",
       "title": "Rava Sada Dosa",
       "price": 14.99,
-      "image": "images/rava-1.jpg",
+      "image": "https://www.topindianrecipes.in/files/2021/06/16-Rava-Dosa.jpg",
       "badge": "golden"
     },
     {
@@ -115,7 +114,7 @@
       "category": "Golden Rava Dosa",
       "title": "Rava Masala Dosa",
       "price": 15.99,
-      "image": "images/rava-2.jpg",
+      "image": "https://www.awesomecuisine.com/wp-content/uploads/2010/03/Rava-Masala-Dosa.jpg",
       "badge": "golden"
     },
     {
@@ -124,7 +123,7 @@
       "category": "Golden Rava Dosa",
       "title": "Rava Onion Sada Dosa",
       "price": 15.99,
-      "image": "images/rava-3.jpg",
+      "image": "https://i.ytimg.com/vi/Xq5zVMHqzys/maxresdefault.jpg",
       "badge": "golden"
     },
     {
@@ -133,7 +132,7 @@
       "category": "Golden Rava Dosa",
       "title": "Rava Onion Masala Dosa",
       "price": 16.99,
-      "image": "images/rava-4.jpg",
+      "image": "https://img.freepik.com/premium-photo/rava-dosa-crispy-lacy-semolina-crepe-served-with-chutney-sambar-onion-dosa_921026-35914.jpg",
       "badge": "golden"
     },
     {
@@ -142,17 +141,16 @@
       "category": "Golden Rava Dosa",
       "title": "Golden Rava Masala Dosa",
       "price": 18.99,
-      "image": "images/rava-5.jpg",
+      "image": "https://img.freepik.com/premium-photo/golden-crispy-rava-masala-dosa-south-indian-food-masala-dosa-image-photography_1020697-135006.jpg",
       "badge": "golden"
     },
-
     {
       "id": "d17",
       "location": "dominion",
       "category": "Signature Spice Dosa",
       "title": "Paneer Chinese Chili Dosa",
       "price": 17.99,
-      "image": "images/signature-1.jpg",
+      "image": "https://cdn.uengage.io/uploads/28289/image-BI4ZUF-1696400396.jpg",
       "badge": "signature"
     },
     {
@@ -161,7 +159,7 @@
       "category": "Signature Spice Dosa",
       "title": "Paneer Salad Roast Dosa",
       "price": 17.99,
-      "image": "images/signature-2.jpg",
+      "image": "https://purohitcafe.com/wp-content/uploads/2024/06/cheese-dosa-800x667.webp",
       "badge": "signature"
     },
     {
@@ -170,7 +168,7 @@
       "category": "Signature Spice Dosa",
       "title": "Mushroom Chopsuey Dosa",
       "price": 17.99,
-      "image": "images/signature-3.jpg",
+      "image": "https://www.yummytummyaarthi.com/wp-content/uploads/2018/04/IMG_2716-1-340x225.jpg",
       "badge": "signature"
     },
     {
@@ -179,17 +177,16 @@
       "category": "Signature Spice Dosa",
       "title": "Jam Roast Dosa",
       "price": 14.99,
-      "image": "images/signature-4.jpg",
+      "image": "https://parcelkaro.in/wp-content/uploads/2022/12/paneer-dosa-e1672079607905.webp",
       "badge": "signature"
     },
-
     {
       "id": "d21",
       "location": "dominion",
       "category": "Authentic Veg Uttapam",
       "title": "Mini Uttapam",
       "price": 12.99,
-      "image": "images/uttapam-1.jpg",
+      "image": "https://images.fittrapi.com/tr:w-1024,pr-true,q-60/16989_FT_8B8BF5EF-EAAB-4252-9DE3-879A1B362DAE_1720075506.jpeg",
       "badge": ""
     },
     {
@@ -198,7 +195,7 @@
       "category": "Authentic Veg Uttapam",
       "title": "Plain Uttapam",
       "price": 13.99,
-      "image": "images/uttapam-2.jpg",
+      "image": "https://img-global.cpcdn.com/recipes/4003cfad2cf108dc/1200x630cq70/photo.jpg",
       "badge": ""
     },
     {
@@ -207,7 +204,7 @@
       "category": "Authentic Veg Uttapam",
       "title": "Mix Uttapam",
       "price": 14.99,
-      "image": "images/uttapam-3.jpg",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlrgtBXG67gjfesMOoYufTS_-fDHrgAAbKgYZsbtKaQb1sr2s-KYz4e92R4MrdaDDs_OOsg9eM05452pC89IXVXdgZbjeftPBrviJCm-5KpPoGe1FzotVBaEpHo0fb-BZ7pJ8RjvbaDKNB/s1600/Mix_Veg_Uttappa_1.jpg",
       "badge": ""
     },
     {
@@ -216,7 +213,7 @@
       "category": "Authentic Veg Uttapam",
       "title": "Onion Uttapam",
       "price": 14.99,
-      "image": "images/uttapam-4.jpg",
+      "image": "https://i0.wp.com/www.chitrasfoodbook.com/wp-content/uploads/2018/02/onion-uthappam.jpg?fit=500%2C553&ssl=1",
       "badge": ""
     },
     {
@@ -225,7 +222,7 @@
       "category": "Authentic Veg Uttapam",
       "title": "Mysore Uttapam",
       "price": 15.99,
-      "image": "images/uttapam-5.jpg",
+      "image": "https://www.jeyashriskitchen.com/wp-content/uploads/2012/06/onion-uttapam-recipe.jpg",
       "badge": ""
     },
     {
@@ -234,7 +231,7 @@
       "category": "Authentic Veg Uttapam",
       "title": "Chinese Onion Delight Uttapam",
       "price": 16.99,
-      "image": "images/uttapam-6.jpg",
+      "image": "https://www.jeyashriskitchen.com/wp-content/uploads/2012/06/onion-uttapam-recipe.jpg",
       "badge": ""
     },
     {
@@ -243,7 +240,7 @@
       "category": "Authentic Veg Uttapam",
       "title": "Schezwan Uttapam",
       "price": 16.99,
-      "image": "images/uttapam-7.jpg",
+      "image": "https://images.raasakarts.com/insecure/fit/1000/1000/ce/0/plain/https://rasakart-assets.s3.ap-south-1.amazonaws.com/3fa229/prods/420LMRLnqPliPl2hMmb79Y8EQ44Fq1pIMer5YKQE.jpg@webp",
       "badge": ""
     },
     {
@@ -252,7 +249,7 @@
       "category": "Authentic Veg Uttapam",
       "title": "Hot Garlic Uttapam",
       "price": 16.99,
-      "image": "images/uttapam-8.jpg",
+      "image": "https://img-global.cpcdn.com/recipes/4003cfad2cf108dc/1200x630cq80/photo.jpg",
       "badge": ""
     },
     {
@@ -261,7 +258,7 @@
       "category": "Authentic Veg Uttapam",
       "title": "Tom-Chi Uttapam",
       "price": 16.99,
-      "image": "images/uttapam-9.jpg",
+      "image": "https://img.freepik.com/premium-photo/onion-uttapam-south-indian-food-south-indian-recipevegetable-uttapam_1116237-2.jpg",
       "badge": ""
     },
     {
@@ -270,7 +267,7 @@
       "category": "Authentic Veg Uttapam",
       "title": "Sandwich Uttapam",
       "price": 16.99,
-      "image": "images/uttapam-10.jpg",
+      "image": "https://firsttimercook.com/wp-content/uploads/2019/05/Mini2BUttapam2B1.jpg",
       "badge": ""
     },
     {
@@ -279,7 +276,7 @@
       "category": "Authentic Veg Uttapam",
       "title": "Paneer Onion Uttapam",
       "price": 15.99,
-      "image": "images/uttapam-11.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5dVVqOBu_yLWa9nWsHLfvAuTSVtdvhQzGPg&s",
       "badge": ""
     },
     {
@@ -288,17 +285,16 @@
       "category": "Authentic Veg Uttapam",
       "title": "Paneer Onion Tomato Uttapam",
       "price": 15.99,
-      "image": "images/uttapam-12.jpg",
+      "image": "https://www.funfoodfrolic.com/wp-content/uploads/2015/09/Onion_and_Tomato_Uttapam_Recipe2-500x500.jpg",
       "badge": ""
     },
-
     {
       "id": "d33",
       "location": "dominion",
       "category": "Global Twist Dosa",
       "title": "Mexican Roast Dosa",
       "price": 17.99,
-      "image": "images/global-1.jpg",
+      "image": "https://img-global.cpcdn.com/recipes/147d2d491434ed97/680x781cq80/paneer-schezwan-dosa-recipe-main-photo.jpg",
       "badge": "global"
     },
     {
@@ -307,7 +303,7 @@
       "category": "Global Twist Dosa",
       "title": "Spring Roll Dosa",
       "price": 16.99,
-      "image": "images/global-2.jpg",
+      "image": "https://thegaruskitchen.com/wp-content/uploads/2023/07/spring-dosa-recipe-300x300.jpeg",
       "badge": "global"
     },
     {
@@ -316,7 +312,7 @@
       "category": "Global Twist Dosa",
       "title": "Mexi Roll Dosa",
       "price": 17.99,
-      "image": "images/global-3.jpg",
+      "image": "https://i.ytimg.com/vi/K-y9m2vucZs/hqdefault.jpg",
       "badge": "global"
     },
     {
@@ -325,7 +321,7 @@
       "category": "Global Twist Dosa",
       "title": "Red Chilli Dosa",
       "price": 18.99,
-      "image": "images/global-4.jpg",
+      "image": "https://vismaifood.com/storage/app/uploads/public/39b/c7d/3bf/thumb__700_0_0_0_auto.jpg",
       "badge": "global"
     },
     {
@@ -334,7 +330,7 @@
       "category": "Global Twist Dosa",
       "title": "Schezwan Stuffed Dosa",
       "price": 18.99,
-      "image": "images/global-5.jpg",
+      "image": "https://i.ytimg.com/vi/K-y9m2vucZs/hqdefault.jpg",
       "badge": "global"
     },
     {
@@ -343,7 +339,7 @@
       "category": "Global Twist Dosa",
       "title": "Schezwan Paneer Dosa",
       "price": 18.99,
-      "image": "images/global-6.jpg",
+      "image": "https://img-global.cpcdn.com/recipes/147d2d491434ed97/680x781cq80/paneer-schezwan-dosa-recipe-main-photo.jpg",
       "badge": "global"
     },
     {
@@ -352,7 +348,7 @@
       "category": "Global Twist Dosa",
       "title": "Schezwan Mushroom Dosa",
       "price": 18.99,
-      "image": "images/global-7.jpg",
+      "image": "https://parcelkaro.in/wp-content/uploads/2022/12/paneer-dosa-e1672079607905.webp",
       "badge": "global"
     },
     {
@@ -361,7 +357,7 @@
       "category": "Global Twist Dosa",
       "title": "Paneer Chilli Dosa",
       "price": 19.99,
-      "image": "images/global-8.jpg",
+      "image": "https://www.idfreshfood.com/wp-content/uploads/2020/11/www.jpg",
       "badge": "global"
     },
     {
@@ -370,7 +366,7 @@
       "category": "Global Twist Dosa",
       "title": "Chinese Delight Dosa",
       "price": 19.99,
-      "image": "images/global-9.jpg",
+      "image": "https://cdn.uengage.io/uploads/28289/image-BI4ZUF-1696400396.jpg",
       "badge": "global"
     },
     {
@@ -379,7 +375,7 @@
       "category": "Global Twist Dosa",
       "title": "American Delight Dosa",
       "price": 19.99,
-      "image": "images/global-10.jpg",
+      "image": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25560243/24.07_Dosa_Dough.png",
       "badge": "global"
     },
     {
@@ -388,7 +384,7 @@
       "category": "Global Twist Dosa",
       "title": "Paneer Crispy Dosa",
       "price": 19.99,
-      "image": "images/global-11.jpg",
+      "image": "https://img-global.cpcdn.com/recipes/147d2d491434ed97/680x781cq80/paneer-schezwan-dosa-recipe-main-photo.jpg",
       "badge": "global"
     },
     {
@@ -397,17 +393,16 @@
       "category": "Global Twist Dosa",
       "title": "Gotala Dosa",
       "price": 19.99,
-      "image": "images/global-12.jpg",
+      "image": "https://img.restaurantguru.com/r865-Deva-South-Indian-Dosa-food.jpg",
       "badge": "global"
     },
-
     {
       "id": "d45",
       "location": "dominion",
       "category": "Chef Special Recipe Dosa",
       "title": "D.V Special Dosa",
       "price": 12.99,
-      "image": "images/chef-1.jpg",
+      "image": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25560243/24.07_Dosa_Dough.png",
       "badge": "chef-special"
     },
     {
@@ -416,7 +411,7 @@
       "category": "Chef Special Recipe Dosa",
       "title": "D.V Special Masala Dosa",
       "price": 14.99,
-      "image": "images/chef-2.jpg",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/masala-dosa-recipe-500x500.jpg",
       "badge": "chef-special"
     },
     {
@@ -425,7 +420,7 @@
       "category": "Chef Special Recipe Dosa",
       "title": "D.V Chef Special Dosa",
       "price": 16.99,
-      "image": "images/chef-3.jpg",
+      "image": "https://vegbuffet.com/wp-content/uploads/2025/06/perfect-dosa-using-homemade-dosa-batter-500x500.jpg",
       "badge": "chef-special"
     },
     {
@@ -434,7 +429,7 @@
       "category": "Chef Special Recipe Dosa",
       "title": "D.V Special Garlic Roast Dosa",
       "price": 17.99,
-      "image": "images/chef-4.jpg",
+      "image": "https://www.cooking4allseasons.com/wp-content/uploads/2008/01/DosaTomatoChutney2.jpg",
       "badge": "chef-special"
     },
     {
@@ -443,7 +438,7 @@
       "category": "Chef Special Recipe Dosa",
       "title": "D.V Chopshey Dosa",
       "price": 18.99,
-      "image": "images/chef-5.jpg",
+      "image": "https://www.yummytummyaarthi.com/wp-content/uploads/2018/04/IMG_2716-1-340x225.jpg",
       "badge": "chef-special"
     },
     {
@@ -452,7 +447,7 @@
       "category": "Chef Special Recipe Dosa",
       "title": "D.V Spicy Special Dosa",
       "price": 14.99,
-      "image": "images/chef-6.jpg",
+      "image": "https://vismaifood.com/storage/app/uploads/public/39b/c7d/3bf/thumb__700_0_0_0_auto.jpg",
       "badge": "chef-special"
     },
     {
@@ -461,7 +456,7 @@
       "category": "Chef Special Recipe Dosa",
       "title": "D.V Paneer Chopshey Dosa",
       "price": 17.99,
-      "image": "images/chef-7.jpg",
+      "image": "https://parcelkaro.in/wp-content/uploads/2022/12/paneer-dosa-e1672079607905.webp",
       "badge": "chef-special"
     },
     {
@@ -470,7 +465,7 @@
       "category": "Chef Special Recipe Dosa",
       "title": "D.V Paneer Delight Dosa",
       "price": 20.99,
-      "image": "images/chef-8.jpg",
+      "image": "https://cdn.uengage.io/uploads/28289/image-BI4ZUF-1696400396.jpg",
       "badge": "chef-special"
     },
     {
@@ -479,7 +474,7 @@
       "category": "Chef Special Recipe Dosa",
       "title": "D.V Special Jini Dosa",
       "price": 18.99,
-      "image": "images/chef-9.jpg",
+      "image": "https://i.ytimg.com/vi/K-y9m2vucZs/hqdefault.jpg",
       "badge": "chef-special"
     },
     {
@@ -488,7 +483,7 @@
       "category": "Chef Special Recipe Dosa",
       "title": "D.V Big Paper Roast Dosa",
       "price": 22.99,
-      "image": "images/chef-10.jpg",
+      "image": "https://www.cooking4allseasons.com/wp-content/uploads/2008/01/DosaTomatoChutney.jpg",
       "badge": "chef-special"
     },
     {
@@ -497,17 +492,16 @@
       "category": "Chef Special Recipe Dosa",
       "title": "D.V Special Big Paper Roast Dosa",
       "price": 25.99,
-      "image": "images/chef-11.jpg",
+      "image": "https://www.cooking4allseasons.com/wp-content/uploads/2008/01/DosaTomatoChutney2.jpg",
       "badge": "chef-special"
     },
-
     {
       "id": "d56",
       "location": "dominion",
       "category": "Healthy Idli & Vada",
       "title": "Soft Idli (3 pcs)",
       "price": 9.99,
-      "image": "images/idli-1.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUDMZaF3JuuuavSs_Gry0DsTlXXqdKmfqyUg&s",
       "badge": ""
     },
     {
@@ -516,7 +510,7 @@
       "category": "Healthy Idli & Vada",
       "title": "D.V Special Sambar Idli",
       "price": 12.99,
-      "image": "images/idli-2.jpg",
+      "image": "https://www.nehascookbook.com/wp-content/uploads/2022/09/Instant-idli-sambar-WS-1.jpg",
       "badge": ""
     },
     {
@@ -525,7 +519,7 @@
       "category": "Healthy Idli & Vada",
       "title": "D.V Special Pudy Idli",
       "price": 12.99,
-      "image": "images/idli-3.jpg",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/04/idli-recipe.webp",
       "badge": ""
     },
     {
@@ -534,7 +528,7 @@
       "category": "Healthy Idli & Vada",
       "title": "D.V Special Onion Cheese Idli",
       "price": 12.99,
-      "image": "images/idli-4.jpg",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/04/idli-recipe.jpg",
       "badge": ""
     },
     {
@@ -543,17 +537,16 @@
       "category": "Healthy Idli & Vada",
       "title": "Medu Vada (3 pcs)",
       "price": 9.99,
-      "image": "images/vada-1.jpg",
+      "image": "https://i0.wp.com/www.chitrasfoodbook.com/wp-content/uploads/2009/01/idli-picture-Copy.jpg?fit=500%2C566&ssl=1",
       "badge": ""
     },
-
     {
       "id": "d61",
       "location": "dominion",
       "category": "Drinks",
       "title": "Masala Tea (Small)",
       "price": 2.0,
-      "image": "images/drink-1.jpg",
+      "image": "https://foodandroad.com/wp-content/uploads/2021/04/masala-chai-indian-drink-3.jpg",
       "badge": ""
     },
     {
@@ -562,7 +555,7 @@
       "category": "Drinks",
       "title": "Masala Tea (Large)",
       "price": 4.0,
-      "image": "images/drink-2.jpg",
+      "image": "https://images.squarespace-cdn.com/content/v1/5ea3b22556f3d073f3d9cae4/052c8f8b-f076-4f0a-8085-f7ebf6e303cf/Screen+Shot+2022-04-03+at+9.23.35+AM.jpg",
       "badge": ""
     },
     {
@@ -571,7 +564,7 @@
       "category": "Drinks",
       "title": "Filter Coffee",
       "price": 4.99,
-      "image": "images/drink-3.jpg",
+      "image": "https://www.kaipunnyam.com/cdn/shop/products/kaipunnyam-filter-coffee.jpg?v=1677041769",
       "badge": ""
     },
     {
@@ -580,7 +573,7 @@
       "category": "Drinks",
       "title": "Soft Drink",
       "price": 3.0,
-      "image": "images/drink-4.jpg",
+      "image": "https://static.wixstatic.com/media/8f1abd_bd3eb9cedc474a7f9a74f6ef457661b1~mv2.jpeg/v1/fill/w_744,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8f1abd_bd3eb9cedc474a7f9a74f6ef457661b1~mv2.jpeg",
       "badge": ""
     },
     {
@@ -589,17 +582,16 @@
       "category": "Drinks",
       "title": "Water",
       "price": 2.0,
-      "image": "images/drink-5.jpg",
+      "image": "https://tiimg.tistatic.com/fp/1/008/298/plastic-durable-2-years-warranty-safe-simple-round-shaped-water-bottle-147.jpg",
       "badge": ""
     },
-
     {
       "id": "d66",
       "location": "dominion",
       "category": "North India Steam & Spicy",
       "title": "Schezwan Momo",
       "price": 12.99,
-      "image": "images/momo-1.jpg",
+      "image": "https://madscookhouse.com/wp-content/uploads/2021/04/Spicy-Tandoori-Momos.jpg",
       "badge": ""
     },
     {
@@ -608,7 +600,7 @@
       "category": "North India Steam & Spicy",
       "title": "Fried Momo",
       "price": 11.99,
-      "image": "images/momo-2.jpg",
+      "image": "https://irepo.primecp.com/2019/05/411915/Fried-Tibetan-Momo-Dumplings_Large500_ID-3223240.jpg",
       "badge": ""
     },
     {
@@ -617,7 +609,7 @@
       "category": "North India Steam & Spicy",
       "title": "Soya Chilli Momo",
       "price": 12.99,
-      "image": "images/momo-3.jpg",
+      "image": "https://img-global.cpcdn.com/recipes/09d05139f63f350a/680x781f0.5_0.568583_1.0q80/dumplings-served-with-chilli-oil-and-soya-sauce-dipping-recipe-main-photo.jpg",
       "badge": ""
     },
     {
@@ -626,7 +618,7 @@
       "category": "North India Steam & Spicy",
       "title": "Mumbai Pav Bhaji",
       "price": 10.99,
-      "image": "images/north-1.jpg",
+      "image": "https://myfoodstory.com/wp-content/uploads/2022/04/Veg-Kolhapuri-2-1.jpg",
       "badge": ""
     },
     {
@@ -635,17 +627,16 @@
       "category": "North India Steam & Spicy",
       "title": "Chole Bhature",
       "price": 10.99,
-      "image": "images/north-2.jpg",
+      "image": "https://cdn2.foodviva.com/static-content/food-images/curry-recipes/veg-kolhapuri/veg-kolhapuri.jpg",
       "badge": ""
     },
-
     {
       "id": "d71",
       "location": "dominion",
       "category": "Aakhri Pasta",
       "title": "Chef Special Pasta",
       "price": 14.99,
-      "image": "images/pasta-1.jpg",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1074479_10-ab735ce.jpg",
       "badge": ""
     },
     {
@@ -654,7 +645,7 @@
       "category": "Aakhri Pasta",
       "title": "Creamy Alfredo Pasta",
       "price": 14.99,
-      "image": "images/pasta-2.jpg",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1074479_10-ab735ce.jpg",
       "badge": ""
     },
     {
@@ -663,17 +654,16 @@
       "category": "Aakhri Pasta",
       "title": "Penne Arrabiata Pasta",
       "price": 14.99,
-      "image": "images/pasta-3.jpg",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1074479_10-ab735ce.jpg",
       "badge": ""
     },
-
     {
       "id": "d74",
       "location": "dominion",
       "category": "Desi Street Food",
       "title": "Masala Pani Puri (6 Pcs)",
       "price": 9.99,
-      "image": "images/street-1.jpg",
+      "image": "https://kashkandhaba.com/wp-content/uploads/2025/01/Screenshot-2025-01-20-at-5.12.10%E2%80%AFPM.png",
       "badge": ""
     },
     {
@@ -682,7 +672,7 @@
       "category": "Desi Street Food",
       "title": "Sev Batata Puri (8 Pcs)",
       "price": 9.99,
-      "image": "images/street-2.jpg",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/12/sev-puri.jpg",
       "badge": ""
     },
     {
@@ -691,7 +681,7 @@
       "category": "Desi Street Food",
       "title": "Dahi Batata Puri (6 pcs)",
       "price": 9.99,
-      "image": "images/street-3.jpg",
+      "image": "https://www.awesomecuisine.com/wp-content/uploads/2024/01/Sev-Batata-Puri.jpg",
       "badge": ""
     },
     {
@@ -700,7 +690,7 @@
       "category": "Desi Street Food",
       "title": "Bhel Puri",
       "price": 9.99,
-      "image": "images/street-4.jpg",
+      "image": "https://i0.wp.com/kalimirchbysmita.com/wp-content/uploads/2019/09/Mumbai-BhelPuri-02.jpg?fit=1024%2C683&ssl=1",
       "badge": ""
     },
     {
@@ -709,7 +699,7 @@
       "category": "Desi Street Food",
       "title": "Chinese Bhel",
       "price": 10.99,
-      "image": "images/street-5.jpg",
+      "image": "https://www.zaykakatadka.com/wp-content/uploads/2019/01/Chinese-Bhel.jpg",
       "badge": ""
     },
     {
@@ -718,7 +708,7 @@
       "category": "Desi Street Food",
       "title": "Dahi Vada",
       "price": 9.99,
-      "image": "images/street-6.jpg",
+      "image": "https://cdn.apartmenttherapy.info/image/fetch/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/https://storage.googleapis.com/gen-atmedia/3/2010/04/757d3b6cbd54bfa943d8af613c7cc58c9e144bcb.jpeg",
       "badge": ""
     },
     {
@@ -727,17 +717,16 @@
       "category": "Desi Street Food",
       "title": "Samosa Chaat",
       "price": 9.99,
-      "image": "images/street-7.jpg",
+      "image": "https://hebbarskitchen.com/wp-content/uploads/2019/10/sev-puri-recipe-save-puri-how-to-make-sev-batata-poori-chaat-1-682x1024.jpeg",
       "badge": ""
     },
-
     {
       "id": "d81",
       "location": "dominion",
       "category": "Desi Chinese (Gravy)",
       "title": "Veg Manchurian (Gravy)",
       "price": 14.99,
-      "image": "images/chinese-gravy-1.jpg",
+      "image": "https://hebbarskitchen.com/wp-content/uploads/2024/04/Veg-Crispy-Recipe-Chinese-Mix-Veg-Crispy-Street-Style-1-500x375.jpeg",
       "badge": ""
     },
     {
@@ -746,7 +735,7 @@
       "category": "Desi Chinese (Gravy)",
       "title": "Gobhi Manchurian (Gravy)",
       "price": 14.99,
-      "image": "images/chinese-gravy-2.jpg",
+      "image": "https://www.sharmispassions.com/wp-content/uploads/2022/02/gobi-manchurian2.jpg",
       "badge": ""
     },
     {
@@ -755,7 +744,7 @@
       "category": "Desi Chinese (Gravy)",
       "title": "Paneer Chilli (Gravy)",
       "price": 14.99,
-      "image": "images/chinese-gravy-3.jpg",
+      "image": "https://hebbarskitchen.com/wp-content/uploads/2017/08/chilli-paneer-gravy-recipe-easy-paneer-chilli-with-gravy-recipe-1.jpeg",
       "badge": ""
     },
     {
@@ -764,7 +753,7 @@
       "category": "Desi Chinese (Gravy)",
       "title": "Cashew Paneer Chilli (Gravy)",
       "price": 14.99,
-      "image": "images/chinese-gravy-4.jpg",
+      "image": "https://static.uengage.in/uploads/27234/image-4914-1698379330.jpg",
       "badge": ""
     },
     {
@@ -773,7 +762,7 @@
       "category": "Desi Chinese (Gravy)",
       "title": "Paneer Manchurian (Gravy)",
       "price": 14.99,
-      "image": "images/chinese-gravy-5.jpg",
+      "image": "https://foodserviceindia.com/wp-content/uploads/2024/02/Paneer-Manchurian-Gravy-464-x-566.jpg",
       "badge": ""
     },
     {
@@ -782,17 +771,16 @@
       "category": "Desi Chinese (Gravy)",
       "title": "D.V Special (Gravy)",
       "price": 14.99,
-      "image": "images/chinese-gravy-6.jpg",
+      "image": "https://hebbarskitchen.com/wp-content/uploads/2017/08/chilli-paneer-gravy-recipe-easy-paneer-chilli-with-gravy-recipe-1.jpeg",
       "badge": ""
     },
-
     {
       "id": "d87",
       "location": "dominion",
       "category": "Desi Chinese (Dry)",
       "title": "Dry Manchurian",
       "price": 13.99,
-      "image": "images/chinese-dry-1.jpg",
+      "image": "https://hebbarskitchen.com/wp-content/uploads/2024/04/Veg-Crispy-Recipe-Chinese-Mix-Veg-Crispy-Street-Style-1-scaled.jpeg",
       "badge": ""
     },
     {
@@ -801,7 +789,7 @@
       "category": "Desi Chinese (Dry)",
       "title": "Dry Paneer Manchurian",
       "price": 14.99,
-      "image": "images/chinese-dry-2.jpg",
+      "image": "https://orders.popskitchen.in/storage/2024/09/image-167.png",
       "badge": ""
     },
     {
@@ -810,7 +798,7 @@
       "category": "Desi Chinese (Dry)",
       "title": "Dry Paneer Chilli",
       "price": 14.99,
-      "image": "images/chinese-dry-3.jpg",
+      "image": "https://static.uengage.in/uploads/27234/image-1952-1698379337.jpg",
       "badge": ""
     },
     {
@@ -819,7 +807,7 @@
       "category": "Desi Chinese (Dry)",
       "title": "Dry Veg Chilli",
       "price": 13.99,
-      "image": "images/chinese-dry-4.jpg",
+      "image": "https://hebbarskitchen.com/wp-content/uploads/2024/04/Veg-Crispy-Recipe-Chinese-Mix-Veg-Crispy-Street-Style-1-500x375.jpeg",
       "badge": ""
     },
     {
@@ -828,7 +816,7 @@
       "category": "Desi Chinese (Dry)",
       "title": "Dry Gobhi Manchurian",
       "price": 13.99,
-      "image": "images/chinese-dry-5.jpg",
+      "image": "https://www.sharmispassions.com/wp-content/uploads/2022/02/gobi-manchurian2.jpg",
       "badge": ""
     },
     {
@@ -837,7 +825,7 @@
       "category": "Desi Chinese (Dry)",
       "title": "D.V Special 65 Veg",
       "price": 13.99,
-      "image": "images/chinese-dry-6.jpg",
+      "image": "https://hebbarskitchen.com/wp-content/uploads/2024/04/Veg-Crispy-Recipe-Chinese-Mix-Veg-Crispy-Street-Style-1-500x375.jpeg",
       "badge": ""
     },
     {
@@ -846,7 +834,7 @@
       "category": "Desi Chinese (Dry)",
       "title": "D.V Special 65 Paneer",
       "price": 14.99,
-      "image": "images/chinese-dry-7.jpg",
+      "image": "https://orders.popskitchen.in/storage/2024/09/image-167.png",
       "badge": ""
     },
     {
@@ -855,7 +843,7 @@
       "category": "Desi Chinese (Dry)",
       "title": "D.V Special 65 Chaap",
       "price": 13.99,
-      "image": "images/chinese-dry-8.jpg",
+      "image": "https://junoonindiancuisine.com/order/wp-content/uploads/2023/04/tandoori-soya-chaap.jpg",
       "badge": ""
     },
     {
@@ -864,7 +852,7 @@
       "category": "Desi Chinese (Dry)",
       "title": "Chilly Garlic Potato",
       "price": 13.99,
-      "image": "images/chinese-dry-9.jpg",
+      "image": "https://hebbarskitchen.com/wp-content/uploads/2024/04/Veg-Crispy-Recipe-Chinese-Mix-Veg-Crispy-Street-Style-1-500x375.jpeg",
       "badge": ""
     },
     {
@@ -873,17 +861,16 @@
       "category": "Desi Chinese (Dry)",
       "title": "Idli Manchurian",
       "price": 13.99,
-      "image": "images/chinese-dry-10.jpg",
+      "image": "https://hebbarskitchen.com/wp-content/uploads/mainPhotos/idli-recipe-how-to-make-idli-soft-idli-recipe-idli-with-idli-rava-2.jpeg",
       "badge": ""
     },
-
     {
       "id": "d97",
       "location": "dominion",
       "category": "Indo Chinese Mains",
       "title": "Hakka Noodles",
       "price": 14.99,
-      "image": "images/indo-chinese-1.jpg",
+      "image": "https://www.whiskaffair.com/wp-content/uploads/2018/11/Vegetable-Fried-Rice-2-3.jpg",
       "badge": ""
     },
     {
@@ -892,7 +879,7 @@
       "category": "Indo Chinese Mains",
       "title": "Schezwan Noodles",
       "price": 15.99,
-      "image": "images/indo-chinese-2.jpg",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/schezwan-fried-rice-recipe.webp",
       "badge": ""
     },
     {
@@ -901,7 +888,7 @@
       "category": "Indo Chinese Mains",
       "title": "Chilli Paneer Noodles",
       "price": 15.99,
-      "image": "images/indo-chinese-3.jpg",
+      "image": "https://hebbarskitchen.com/wp-content/uploads/2017/08/chilli-paneer-gravy-recipe-easy-paneer-chilli-with-gravy-recipe-1.jpeg",
       "badge": ""
     },
     {
@@ -910,7 +897,7 @@
       "category": "Indo Chinese Mains",
       "title": "D.V Special Rice & Noodles",
       "price": 17.99,
-      "image": "images/indo-chinese-4.jpg",
+      "image": "https://img-global.cpcdn.com/recipes/bf3641927c973385/1200x630cq70/photo.jpg",
       "badge": ""
     },
     {
@@ -919,7 +906,7 @@
       "category": "Indo Chinese Mains",
       "title": "Shanghai Rice",
       "price": 15.99,
-      "image": "images/indo-chinese-5.jpg",
+      "image": "https://img-global.cpcdn.com/recipes/bf3641927c973385/1200x630cq70/photo.jpg",
       "badge": ""
     },
     {
@@ -928,7 +915,7 @@
       "category": "Indo Chinese Mains",
       "title": "Fried Rice",
       "price": 13.99,
-      "image": "images/indo-chinese-6.jpg",
+      "image": "https://www.whiskaffair.com/wp-content/uploads/2018/11/Vegetable-Fried-Rice-2-3.jpg",
       "badge": ""
     },
     {
@@ -937,7 +924,7 @@
       "category": "Indo Chinese Mains",
       "title": "Schezwan Rice",
       "price": 14.99,
-      "image": "images/indo-chinese-7.jpg",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/schezwan-fried-rice-recipe.webp",
       "badge": ""
     },
     {
@@ -946,7 +933,7 @@
       "category": "Indo Chinese Mains",
       "title": "Paneer Schezwan Rice",
       "price": 16.99,
-      "image": "images/indo-chinese-8.jpg",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/schezwan-fried-rice-recipe.webp",
       "badge": ""
     },
     {
@@ -955,7 +942,7 @@
       "category": "Indo Chinese Mains",
       "title": "Mushroom Schezwan Rice",
       "price": 16.99,
-      "image": "images/indo-chinese-9.jpg",
+      "image": "https://12oclockbiriyani.com/wp-content/uploads/2025/03/mushroom-shezivan-fried-rice.jpg",
       "badge": ""
     },
     {
@@ -964,7 +951,7 @@
       "category": "Indo Chinese Mains",
       "title": "French Fries",
       "price": 8.99,
-      "image": "images/indo-chinese-10.jpg",
+      "image": "https://recipescool.com/wp-content/uploads/2023/08/1-7.png",
       "badge": ""
     },
     {
@@ -973,17 +960,16 @@
       "category": "Indo Chinese Mains",
       "title": "Honey Chili Potato",
       "price": 14.99,
-      "image": "images/indo-chinese-11.jpg",
+      "image": "https://hebbarskitchen.com/wp-content/uploads/2024/04/Veg-Crispy-Recipe-Chinese-Mix-Veg-Crispy-Street-Style-1-500x375.jpeg",
       "badge": ""
     },
-
     {
       "id": "d108",
       "location": "dominion",
       "category": "Soup",
       "title": "Manchow Soup",
       "price": 9.99,
-      "image": "images/soup-1.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH3uh43tMBZ2v0O27eSt79Zioo9ataICNlag&s",
       "badge": ""
     },
     {
@@ -992,17 +978,16 @@
       "category": "Soup",
       "title": "Hot And Sour Soup",
       "price": 9.99,
-      "image": "images/soup-2.jpg",
+      "image": "https://www.cookingcarnival.com/wp-content/uploads/2023/09/Hot-and-sour-soup-4.jpg",
       "badge": ""
     },
-
     {
       "id": "s1",
       "location": "stoddard",
       "category": "South Indian Dosa",
       "title": "Sada Dosa",
       "price": 9.99,
-      "image": "images/dosa-1.jpg",
+      "image": "https://dmlxzvnzyohme.cloudfront.net/2013/08/_1200x630_crop_center-center_82_none_ns/nk-wgbh-masala-dosa640x360.jpg",
       "badge": ""
     },
     {
@@ -1011,7 +996,7 @@
       "category": "South Indian Dosa",
       "title": "Set Dosa",
       "price": 11.99,
-      "image": "images/dosa-2.jpg",
+      "image": "https://simpleindianrecipes.com/portals/0/sirimages/Set-Dosa-M.jpg",
       "badge": ""
     },
     {
@@ -1020,7 +1005,7 @@
       "category": "South Indian Dosa",
       "title": "Masala Dosa",
       "price": 13.99,
-      "image": "images/dosa-3.jpg",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/masala-dosa-recipe-500x500.jpg",
       "badge": ""
     },
     {
@@ -1029,7 +1014,7 @@
       "category": "South Indian Dosa",
       "title": "Open Dosa",
       "price": 14.99,
-      "image": "images/dosa-4.jpg",
+      "image": "https://dmlxzvnzyohme.cloudfront.net/2013/08/_800x418_crop_center-center_82_none_ns/nk-wgbh-masala-dosa640x360.jpg",
       "badge": ""
     },
     {
@@ -1038,7 +1023,7 @@
       "category": "South Indian Dosa",
       "title": "Onion Dosa",
       "price": 13.99,
-      "image": "images/dosa-5.jpg",
+      "image": "https://media.vyaparify.com/vcards/products/177902/product_1743505073_67ebc6b142392.png",
       "badge": ""
     },
     {
@@ -1047,7 +1032,7 @@
       "category": "South Indian Dosa",
       "title": "Mysore Sada Dosa",
       "price": 12.99,
-      "image": "images/dosa-6.jpg",
+      "image": "https://www.yummytummyaarthi.com/wp-content/uploads/2012/01/1-1.jpeg",
       "badge": ""
     },
     {
@@ -1056,7 +1041,7 @@
       "category": "South Indian Dosa",
       "title": "Mysore Masala Dosa",
       "price": 14.99,
-      "image": "images/dosa-7.jpg",
+      "image": "https://www.yummytummyaarthi.com/wp-content/uploads/2012/01/1-1.jpeg",
       "badge": ""
     },
     {
@@ -1065,7 +1050,7 @@
       "category": "South Indian Dosa",
       "title": "Rocket Mysore Sada Dosa",
       "price": 13.99,
-      "image": "images/dosa-8.jpg",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0b/ed/37/d5/mysore-rocket-sada-dosa.jpg",
       "badge": ""
     },
     {
@@ -1074,7 +1059,7 @@
       "category": "South Indian Dosa",
       "title": "Hara Sada Dosa",
       "price": 12.99,
-      "image": "images/dosa-9.jpg",
+      "image": "https://img-global.cpcdn.com/recipes/ff3b6e216d3d2150/680x482cq70/butter-sada-crispy-dosa-recipe-main-photo.jpg",
       "badge": ""
     },
     {
@@ -1083,7 +1068,7 @@
       "category": "South Indian Dosa",
       "title": "Hara Masala Dosa",
       "price": 14.99,
-      "image": "images/dosa-10.jpg",
+      "image": "https://img-global.cpcdn.com/recipes/ff3b6e216d3d2150/680x482cq70/butter-sada-crispy-dosa-recipe-main-photo.jpg",
       "badge": ""
     },
     {
@@ -1092,17 +1077,16 @@
       "category": "South Indian Dosa",
       "title": "Pudy Roast Dosa",
       "price": 14.99,
-      "image": "images/dosa-11.jpg",
+      "image": "https://s7ap1.scene7.com/is/image/itcportalprod/Podi%20dosa%20desktop%20images",
       "badge": ""
     },
-
     {
       "id": "s12",
       "location": "stoddard",
       "category": "Golden Rava Dosa",
       "title": "Rava Sada Dosa",
       "price": 14.99,
-      "image": "images/rava-1.jpg",
+      "image": "https://www.topindianrecipes.in/files/2021/06/16-Rava-Dosa.jpg",
       "badge": "golden"
     },
     {
@@ -1111,7 +1095,7 @@
       "category": "Golden Rava Dosa",
       "title": "Rava Masala Dosa",
       "price": 15.99,
-      "image": "images/rava-2.jpg",
+      "image": "https://www.awesomecuisine.com/wp-content/uploads/2010/03/Rava-Masala-Dosa.jpg",
       "badge": "golden"
     },
     {
@@ -1120,7 +1104,7 @@
       "category": "Golden Rava Dosa",
       "title": "Rava Onion Sada Dosa",
       "price": 15.99,
-      "image": "images/rava-3.jpg",
+      "image": "https://i.ytimg.com/vi/Xq5zVMHqzys/maxresdefault.jpg",
       "badge": "golden"
     },
     {
@@ -1129,7 +1113,7 @@
       "category": "Golden Rava Dosa",
       "title": "Rava Onion Masala Dosa",
       "price": 16.99,
-      "image": "images/rava-4.jpg",
+      "image": "https://img.freepik.com/premium-photo/rava-dosa-crispy-lacy-semolina-crepe-served-with-chutney-sambar-onion-dosa_921026-35914.jpg",
       "badge": "golden"
     },
     {
@@ -1138,17 +1122,16 @@
       "category": "Golden Rava Dosa",
       "title": "Golden Rava Masala Dosa",
       "price": 18.99,
-      "image": "images/rava-5.jpg",
+      "image": "https://img.freepik.com/premium-photo/golden-crispy-rava-masala-dosa-south-indian-food-masala-dosa-image-photography_1020697-135006.jpg",
       "badge": "golden"
     },
-
     {
       "id": "s17",
       "location": "stoddard",
       "category": "Signature Spice Dosa",
       "title": "Paneer Chinese Chili Dosa",
       "price": 17.99,
-      "image": "images/signature-1.jpg",
+      "image": "https://cdn.uengage.io/uploads/28289/image-BI4ZUF-1696400396.jpg",
       "badge": "signature"
     },
     {
@@ -1157,7 +1140,7 @@
       "category": "Signature Spice Dosa",
       "title": "Paneer Salad Roast Dosa",
       "price": 17.99,
-      "image": "images/signature-2.jpg",
+      "image": "https://purohitcafe.com/wp-content/uploads/2024/06/cheese-dosa-800x667.webp",
       "badge": "signature"
     },
     {
@@ -1166,7 +1149,7 @@
       "category": "Signature Spice Dosa",
       "title": "Mushroom Chopsuey Dosa",
       "price": 17.99,
-      "image": "images/signature-3.jpg",
+      "image": "https://www.yummytummyaarthi.com/wp-content/uploads/2018/04/IMG_2716-1-340x225.jpg",
       "badge": "signature"
     },
     {
@@ -1175,17 +1158,16 @@
       "category": "Signature Spice Dosa",
       "title": "Jam Roast Dosa",
       "price": 14.99,
-      "image": "images/signature-4.jpg",
+      "image": "https://parcelkaro.in/wp-content/uploads/2022/12/paneer-dosa-e1672079607905.webp",
       "badge": "signature"
     },
-
     {
       "id": "s21",
       "location": "stoddard",
       "category": "Authentic Veg Uttapam",
       "title": "Mini Uttapam",
       "price": 12.99,
-      "image": "images/uttapam-1.jpg",
+      "image": "https://images.fittrapi.com/tr:w-1024,pr-true,q-60/16989_FT_8B8BF5EF-EAAB-4252-9DE3-879A1B362DAE_1720075506.jpeg",
       "badge": ""
     },
     {
@@ -1194,7 +1176,7 @@
       "category": "Authentic Veg Uttapam",
       "title": "Plain Uttapam",
       "price": 13.99,
-      "image": "images/uttapam-2.jpg",
+      "image": "https://img-global.cpcdn.com/recipes/4003cfad2cf108dc/1200x630cq70/photo.jpg",
       "badge": ""
     },
     {
@@ -1203,7 +1185,7 @@
       "category": "Authentic Veg Uttapam",
       "title": "Mix Uttapam",
       "price": 14.99,
-      "image": "images/uttapam-3.jpg",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlrgtBXG67gjfesMOoYufTS_-fDHrgAAbKgYZsbtKaQb1sr2s-KYz4e92R4MrdaDDs_OOsg9eM05452pC89IXVXdgZbjeftPBrviJCm-5KpPoGe1FzotVBaEpHo0fb-BZ7pJ8RjvbaDKNB/s1600/Mix_Veg_Uttappa_1.jpg",
       "badge": ""
     },
     {
@@ -1212,7 +1194,7 @@
       "category": "Authentic Veg Uttapam",
       "title": "Onion Uttapam",
       "price": 14.99,
-      "image": "images/uttapam-4.jpg",
+      "image": "https://i0.wp.com/www.chitrasfoodbook.com/wp-content/uploads/2018/02/onion-uthappam.jpg?fit=500%2C553&ssl=1",
       "badge": ""
     },
     {
@@ -1221,7 +1203,7 @@
       "category": "Authentic Veg Uttapam",
       "title": "Mysore Uttapam",
       "price": 15.99,
-      "image": "images/uttapam-5.jpg",
+      "image": "https://www.jeyashriskitchen.com/wp-content/uploads/2012/06/onion-uttapam-recipe.jpg",
       "badge": ""
     },
     {
@@ -1230,7 +1212,7 @@
       "category": "Authentic Veg Uttapam",
       "title": "Chinese Onion Delight Uttapam",
       "price": 16.99,
-      "image": "images/uttapam-6.jpg",
+      "image": "https://www.jeyashriskitchen.com/wp-content/uploads/2012/06/onion-uttapam-recipe.jpg",
       "badge": ""
     },
     {
@@ -1239,7 +1221,7 @@
       "category": "Authentic Veg Uttapam",
       "title": "Schezwan Uttapam",
       "price": 16.99,
-      "image": "images/uttapam-7.jpg",
+      "image": "https://images.raasakarts.com/insecure/fit/1000/1000/ce/0/plain/https://rasakart-assets.s3.ap-south-1.amazonaws.com/3fa229/prods/420LMRLnqPliPl2hMmb79Y8EQ44Fq1pIMer5YKQE.jpg@webp",
       "badge": ""
     },
     {
@@ -1248,7 +1230,7 @@
       "category": "Authentic Veg Uttapam",
       "title": "Hot Garlic Uttapam",
       "price": 16.99,
-      "image": "images/uttapam-8.jpg",
+      "image": "https://img-global.cpcdn.com/recipes/4003cfad2cf108dc/1200x630cq80/photo.jpg",
       "badge": ""
     },
     {
@@ -1257,7 +1239,7 @@
       "category": "Authentic Veg Uttapam",
       "title": "Tom-Chi Uttapam",
       "price": 16.99,
-      "image": "images/uttapam-9.jpg",
+      "image": "https://img.freepik.com/premium-photo/onion-uttapam-south-indian-food-south-indian-recipevegetable-uttapam_1116237-2.jpg",
       "badge": ""
     },
     {
@@ -1266,7 +1248,7 @@
       "category": "Authentic Veg Uttapam",
       "title": "Sandwich Uttapam",
       "price": 16.99,
-      "image": "images/uttapam-10.jpg",
+      "image": "https://firsttimercook.com/wp-content/uploads/2019/05/Mini2BUttapam2B1.jpg",
       "badge": ""
     },
     {
@@ -1275,7 +1257,7 @@
       "category": "Authentic Veg Uttapam",
       "title": "Paneer Onion Uttapam",
       "price": 15.99,
-      "image": "images/uttapam-11.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5dVVqOBu_yLWa9nWsHLfvAuTSVtdvhQzGPg&s",
       "badge": ""
     },
     {
@@ -1284,17 +1266,16 @@
       "category": "Authentic Veg Uttapam",
       "title": "Paneer Onion Tomato Uttapam",
       "price": 15.99,
-      "image": "images/uttapam-12.jpg",
+      "image": "https://www.funfoodfrolic.com/wp-content/uploads/2015/09/Onion_and_Tomato_Uttapam_Recipe2-500x500.jpg",
       "badge": ""
     },
-
     {
       "id": "s33",
       "location": "stoddard",
       "category": "Global Twist Dosa",
       "title": "Mexican Roast Dosa",
       "price": 17.99,
-      "image": "images/global-1.jpg",
+      "image": "https://img-global.cpcdn.com/recipes/147d2d491434ed97/680x781cq80/paneer-schezwan-dosa-recipe-main-photo.jpg",
       "badge": "global"
     },
     {
@@ -1303,7 +1284,7 @@
       "category": "Global Twist Dosa",
       "title": "Spring Roll Dosa",
       "price": 16.99,
-      "image": "images/global-2.jpg",
+      "image": "https://thegaruskitchen.com/wp-content/uploads/2023/07/spring-dosa-recipe-300x300.jpeg",
       "badge": "global"
     },
     {
@@ -1312,7 +1293,7 @@
       "category": "Global Twist Dosa",
       "title": "Mexi Roll Dosa",
       "price": 17.99,
-      "image": "images/global-3.jpg",
+      "image": "https://i.ytimg.com/vi/K-y9m2vucZs/hqdefault.jpg",
       "badge": "global"
     },
     {
@@ -1321,7 +1302,7 @@
       "category": "Global Twist Dosa",
       "title": "Red Chilli Dosa",
       "price": 18.99,
-      "image": "images/global-4.jpg",
+      "image": "https://vismaifood.com/storage/app/uploads/public/39b/c7d/3bf/thumb__700_0_0_0_auto.jpg",
       "badge": "global"
     },
     {
@@ -1330,7 +1311,7 @@
       "category": "Global Twist Dosa",
       "title": "Schezwan Stuffed Dosa",
       "price": 18.99,
-      "image": "images/global-5.jpg",
+      "image": "https://i.ytimg.com/vi/K-y9m2vucZs/hqdefault.jpg",
       "badge": "global"
     },
     {
@@ -1339,7 +1320,7 @@
       "category": "Global Twist Dosa",
       "title": "Schezwan Paneer Dosa",
       "price": 18.99,
-      "image": "images/global-6.jpg",
+      "image": "https://img-global.cpcdn.com/recipes/147d2d491434ed97/680x781cq80/paneer-schezwan-dosa-recipe-main-photo.jpg",
       "badge": "global"
     },
     {
@@ -1348,7 +1329,7 @@
       "category": "Global Twist Dosa",
       "title": "Schezwan Mushroom Dosa",
       "price": 18.99,
-      "image": "images/global-7.jpg",
+      "image": "https://parcelkaro.in/wp-content/uploads/2022/12/paneer-dosa-e1672079607905.webp",
       "badge": "global"
     },
     {
@@ -1357,7 +1338,7 @@
       "category": "Global Twist Dosa",
       "title": "Paneer Chilli Dosa",
       "price": 19.99,
-      "image": "images/global-8.jpg",
+      "image": "https://www.idfreshfood.com/wp-content/uploads/2020/11/www.jpg",
       "badge": "global"
     },
     {
@@ -1366,7 +1347,7 @@
       "category": "Global Twist Dosa",
       "title": "Chinese Delight Dosa",
       "price": 19.99,
-      "image": "images/global-9.jpg",
+      "image": "https://cdn.uengage.io/uploads/28289/image-BI4ZUF-1696400396.jpg",
       "badge": "global"
     },
     {
@@ -1375,7 +1356,7 @@
       "category": "Global Twist Dosa",
       "title": "American Delight Dosa",
       "price": 19.99,
-      "image": "images/global-10.jpg",
+      "image": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25560243/24.07_Dosa_Dough.png",
       "badge": "global"
     },
     {
@@ -1384,7 +1365,7 @@
       "category": "Global Twist Dosa",
       "title": "Paneer Crispy Dosa",
       "price": 19.99,
-      "image": "images/global-11.jpg",
+      "image": "https://img-global.cpcdn.com/recipes/147d2d491434ed97/680x781cq80/paneer-schezwan-dosa-recipe-main-photo.jpg",
       "badge": "global"
     },
     {
@@ -1393,17 +1374,16 @@
       "category": "Global Twist Dosa",
       "title": "Gotala Dosa",
       "price": 19.99,
-      "image": "images/global-12.jpg",
+      "image": "https://img.restaurantguru.com/r865-Deva-South-Indian-Dosa-food.jpg",
       "badge": "global"
     },
-
     {
       "id": "s45",
       "location": "stoddard",
       "category": "Chef Special Recipe Dosa",
       "title": "D.V Special Dosa",
       "price": 12.99,
-      "image": "images/chef-1.jpg",
+      "image": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25560243/24.07_Dosa_Dough.png",
       "badge": "chef-special"
     },
     {
@@ -1412,7 +1392,7 @@
       "category": "Chef Special Recipe Dosa",
       "title": "D.V Special Masala Dosa",
       "price": 14.99,
-      "image": "images/chef-2.jpg",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/masala-dosa-recipe-500x500.jpg",
       "badge": "chef-special"
     },
     {
@@ -1421,7 +1401,7 @@
       "category": "Chef Special Recipe Dosa",
       "title": "D.V Chef Special Dosa",
       "price": 16.99,
-      "image": "images/chef-3.jpg",
+      "image": "https://vegbuffet.com/wp-content/uploads/2025/06/perfect-dosa-using-homemade-dosa-batter-500x500.jpg",
       "badge": "chef-special"
     },
     {
@@ -1430,7 +1410,7 @@
       "category": "Chef Special Recipe Dosa",
       "title": "D.V Special Garlic Roast Dosa",
       "price": 17.99,
-      "image": "images/chef-4.jpg",
+      "image": "https://www.cooking4allseasons.com/wp-content/uploads/2008/01/DosaTomatoChutney2.jpg",
       "badge": "chef-special"
     },
     {
@@ -1439,7 +1419,7 @@
       "category": "Chef Special Recipe Dosa",
       "title": "D.V Chopshey Dosa",
       "price": 18.99,
-      "image": "images/chef-5.jpg",
+      "image": "https://www.yummytummyaarthi.com/wp-content/uploads/2018/04/IMG_2716-1-340x225.jpg",
       "badge": "chef-special"
     },
     {
@@ -1448,7 +1428,7 @@
       "category": "Chef Special Recipe Dosa",
       "title": "D.V Spicy Special Dosa",
       "price": 14.99,
-      "image": "images/chef-6.jpg",
+      "image": "https://vismaifood.com/storage/app/uploads/public/39b/c7d/3bf/thumb__700_0_0_0_auto.jpg",
       "badge": "chef-special"
     },
     {
@@ -1457,7 +1437,7 @@
       "category": "Chef Special Recipe Dosa",
       "title": "D.V Paneer Chopshey Dosa",
       "price": 17.99,
-      "image": "images/chef-7.jpg",
+      "image": "https://parcelkaro.in/wp-content/uploads/2022/12/paneer-dosa-e1672079607905.webp",
       "badge": "chef-special"
     },
     {
@@ -1466,7 +1446,7 @@
       "category": "Chef Special Recipe Dosa",
       "title": "D.V Paneer Delight Dosa",
       "price": 20.99,
-      "image": "images/chef-8.jpg",
+      "image": "https://cdn.uengage.io/uploads/28289/image-BI4ZUF-1696400396.jpg",
       "badge": "chef-special"
     },
     {
@@ -1475,7 +1455,7 @@
       "category": "Chef Special Recipe Dosa",
       "title": "D.V Special Jini Dosa",
       "price": 18.99,
-      "image": "images/chef-9.jpg",
+      "image": "https://i.ytimg.com/vi/K-y9m2vucZs/hqdefault.jpg",
       "badge": "chef-special"
     },
     {
@@ -1484,7 +1464,7 @@
       "category": "Chef Special Recipe Dosa",
       "title": "D.V Big Paper Roast Dosa",
       "price": 22.99,
-      "image": "images/chef-10.jpg",
+      "image": "https://www.cooking4allseasons.com/wp-content/uploads/2008/01/DosaTomatoChutney.jpg",
       "badge": "chef-special"
     },
     {
@@ -1493,17 +1473,16 @@
       "category": "Chef Special Recipe Dosa",
       "title": "D.V Special Big Paper Roast Dosa",
       "price": 25.99,
-      "image": "images/chef-11.jpg",
+      "image": "https://www.cooking4allseasons.com/wp-content/uploads/2008/01/DosaTomatoChutney2.jpg",
       "badge": "chef-special"
     },
-
     {
       "id": "s56",
       "location": "stoddard",
       "category": "Healthy Idli & Vada",
       "title": "Soft Idli (3 pcs)",
       "price": 9.99,
-      "image": "images/idli-1.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUDMZaF3JuuuavSs_Gry0DsTlXXqdKmfqyUg&s",
       "badge": ""
     },
     {
@@ -1512,7 +1491,7 @@
       "category": "Healthy Idli & Vada",
       "title": "D.V Special Sambar Idli",
       "price": 12.99,
-      "image": "images/idli-2.jpg",
+      "image": "https://www.nehascookbook.com/wp-content/uploads/2022/09/Instant-idli-sambar-WS-1.jpg",
       "badge": ""
     },
     {
@@ -1521,7 +1500,7 @@
       "category": "Healthy Idli & Vada",
       "title": "D.V Special Pudy Idli",
       "price": 12.99,
-      "image": "images/idli-3.jpg",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/04/idli-recipe.webp",
       "badge": ""
     },
     {
@@ -1530,7 +1509,7 @@
       "category": "Healthy Idli & Vada",
       "title": "D.V Special Onion Cheese Idli",
       "price": 12.99,
-      "image": "images/idli-4.jpg",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/04/idli-recipe.jpg",
       "badge": ""
     },
     {
@@ -1539,17 +1518,16 @@
       "category": "Healthy Idli & Vada",
       "title": "Medu Vada (3 pcs)",
       "price": 9.99,
-      "image": "images/vada-1.jpg",
+      "image": "https://i0.wp.com/www.chitrasfoodbook.com/wp-content/uploads/2009/01/idli-picture-Copy.jpg?fit=500%2C566&ssl=1",
       "badge": ""
     },
-
     {
       "id": "s61",
       "location": "stoddard",
       "category": "Drinks",
       "title": "Masala Tea (Small)",
       "price": 2.0,
-      "image": "images/drink-1.jpg",
+      "image": "https://foodandroad.com/wp-content/uploads/2021/04/masala-chai-indian-drink-3.jpg",
       "badge": ""
     },
     {
@@ -1558,7 +1536,7 @@
       "category": "Drinks",
       "title": "Masala Tea (Large)",
       "price": 4.0,
-      "image": "images/drink-2.jpg",
+      "image": "https://images.squarespace-cdn.com/content/v1/5ea3b22556f3d073f3d9cae4/052c8f8b-f076-4f0a-8085-f7ebf6e303cf/Screen+Shot+2022-04-03+at+9.23.35+AM.jpg",
       "badge": ""
     },
     {
@@ -1567,7 +1545,7 @@
       "category": "Drinks",
       "title": "Filter Coffee",
       "price": 4.99,
-      "image": "images/drink-3.jpg",
+      "image": "https://www.kaipunnyam.com/cdn/shop/products/kaipunnyam-filter-coffee.jpg?v=1677041769",
       "badge": ""
     },
     {
@@ -1576,7 +1554,7 @@
       "category": "Drinks",
       "title": "Soft Drink",
       "price": 3.0,
-      "image": "images/drink-4.jpg",
+      "image": "https://static.wixstatic.com/media/8f1abd_bd3eb9cedc474a7f9a74f6ef457661b1~mv2.jpeg/v1/fill/w_744,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8f1abd_bd3eb9cedc474a7f9a74f6ef457661b1~mv2.jpeg",
       "badge": ""
     },
     {
@@ -1585,17 +1563,16 @@
       "category": "Drinks",
       "title": "Water",
       "price": 2.0,
-      "image": "images/drink-5.jpg",
+      "image": "https://tiimg.tistatic.com/fp/1/008/298/plastic-durable-2-years-warranty-safe-simple-round-shaped-water-bottle-147.jpg",
       "badge": ""
     },
-
     {
       "id": "s66",
       "location": "stoddard",
       "category": "North India Steam & Spicy",
       "title": "Schezwan Momo",
       "price": 12.99,
-      "image": "images/momo-1.jpg",
+      "image": "https://madscookhouse.com/wp-content/uploads/2021/04/Spicy-Tandoori-Momos.jpg",
       "badge": ""
     },
     {
@@ -1604,7 +1581,7 @@
       "category": "North India Steam & Spicy",
       "title": "Fried Momo",
       "price": 11.99,
-      "image": "images/momo-2.jpg",
+      "image": "https://irepo.primecp.com/2019/05/411915/Fried-Tibetan-Momo-Dumplings_Large500_ID-3223240.jpg",
       "badge": ""
     },
     {
@@ -1613,7 +1590,7 @@
       "category": "North India Steam & Spicy",
       "title": "Soya Chilli Momo",
       "price": 12.99,
-      "image": "images/momo-3.jpg",
+      "image": "https://img-global.cpcdn.com/recipes/09d05139f63f350a/680x781f0.5_0.568583_1.0q80/dumplings-served-with-chilli-oil-and-soya-sauce-dipping-recipe-main-photo.jpg",
       "badge": ""
     },
     {
@@ -1622,7 +1599,7 @@
       "category": "North India Steam & Spicy",
       "title": "Mumbai Pav Bhaji",
       "price": 10.99,
-      "image": "images/north-1.jpg",
+      "image": "https://myfoodstory.com/wp-content/uploads/2022/04/Veg-Kolhapuri-2-1.jpg",
       "badge": ""
     },
     {
@@ -1631,17 +1608,16 @@
       "category": "North India Steam & Spicy",
       "title": "Chole Bhature",
       "price": 10.99,
-      "image": "images/north-2.jpg",
+      "image": "https://cdn2.foodviva.com/static-content/food-images/curry-recipes/veg-kolhapuri/veg-kolhapuri.jpg",
       "badge": ""
     },
-
     {
       "id": "s71",
       "location": "stoddard",
       "category": "Aakhri Pasta",
       "title": "Chef Special Pasta",
       "price": 14.99,
-      "image": "images/pasta-1.jpg",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1074479_10-ab735ce.jpg",
       "badge": ""
     },
     {
@@ -1650,7 +1626,7 @@
       "category": "Aakhri Pasta",
       "title": "Creamy Alfredo Pasta",
       "price": 14.99,
-      "image": "images/pasta-2.jpg",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1074479_10-ab735ce.jpg",
       "badge": ""
     },
     {
@@ -1659,17 +1635,16 @@
       "category": "Aakhri Pasta",
       "title": "Penne Arrabiata Pasta",
       "price": 14.99,
-      "image": "images/pasta-3.jpg",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1074479_10-ab735ce.jpg",
       "badge": ""
     },
-
     {
       "id": "s74",
       "location": "stoddard",
       "category": "Desi Street Food",
       "title": "Masala Pani Puri (6 Pcs)",
       "price": 9.99,
-      "image": "images/street-1.jpg",
+      "image": "https://hebbarskitchen.com/wp-content/uploads/2020/04/masala-puri-recipe-bangalore-street-style-masala-poori-chaat-recipe-1-682x1024.jpeg",
       "badge": ""
     },
     {
@@ -1678,7 +1653,7 @@
       "category": "Desi Street Food",
       "title": "Sev Batata Puri (8 Pcs)",
       "price": 9.99,
-      "image": "images/street-2.jpg",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/12/sev-puri.jpg",
       "badge": ""
     },
     {
@@ -1687,7 +1662,7 @@
       "category": "Desi Street Food",
       "title": "Dahi Batata Puri (6 pcs)",
       "price": 9.99,
-      "image": "images/street-3.jpg",
+      "image": "https://www.awesomecuisine.com/wp-content/uploads/2024/01/Sev-Batata-Puri.jpg",
       "badge": ""
     },
     {
@@ -1696,7 +1671,7 @@
       "category": "Desi Street Food",
       "title": "Bhel Puri",
       "price": 9.99,
-      "image": "images/street-4.jpg",
+      "image": "https://i0.wp.com/kalimirchbysmita.com/wp-content/uploads/2019/09/Mumbai-BhelPuri-02.jpg?fit=1024%2C683&ssl=1",
       "badge": ""
     },
     {
@@ -1705,7 +1680,7 @@
       "category": "Desi Street Food",
       "title": "Chinese Bhel",
       "price": 10.99,
-      "image": "images/street-5.jpg",
+      "image": "https://www.zaykakatadka.com/wp-content/uploads/2019/01/Chinese-Bhel.jpg",
       "badge": ""
     },
     {
@@ -1714,7 +1689,7 @@
       "category": "Desi Street Food",
       "title": "Dahi Vada",
       "price": 9.99,
-      "image": "images/street-6.jpg",
+      "image": "https://cdn.apartmenttherapy.info/image/fetch/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/https://storage.googleapis.com/gen-atmedia/3/2010/04/757d3b6cbd54bfa943d8af613c7cc58c9e144bcb.jpeg",
       "badge": ""
     },
     {
@@ -1723,17 +1698,16 @@
       "category": "Desi Street Food",
       "title": "Samosa Chaat",
       "price": 9.99,
-      "image": "images/street-7.jpg",
+      "image": "https://hebbarskitchen.com/wp-content/uploads/2019/10/sev-puri-recipe-save-puri-how-to-make-sev-batata-poori-chaat-1-682x1024.jpeg",
       "badge": ""
     },
-
     {
       "id": "s81",
       "location": "stoddard",
       "category": "Desi Chinese (Gravy)",
       "title": "Veg Manchurian (Gravy)",
       "price": 14.99,
-      "image": "images/chinese-gravy-1.jpg",
+      "image": "https://hebbarskitchen.com/wp-content/uploads/2024/04/Veg-Crispy-Recipe-Chinese-Mix-Veg-Crispy-Street-Style-1-500x375.jpeg",
       "badge": ""
     },
     {
@@ -1742,7 +1716,7 @@
       "category": "Desi Chinese (Gravy)",
       "title": "Gobhi Manchurian (Gravy)",
       "price": 14.99,
-      "image": "images/chinese-gravy-2.jpg",
+      "image": "https://www.sharmispassions.com/wp-content/uploads/2022/02/gobi-manchurian2.jpg",
       "badge": ""
     },
     {
@@ -1751,7 +1725,7 @@
       "category": "Desi Chinese (Gravy)",
       "title": "Paneer Chilli (Gravy)",
       "price": 14.99,
-      "image": "images/chinese-gravy-3.jpg",
+      "image": "https://hebbarskitchen.com/wp-content/uploads/2017/08/chilli-paneer-gravy-recipe-easy-paneer-chilli-with-gravy-recipe-1.jpeg",
       "badge": ""
     },
     {
@@ -1760,7 +1734,7 @@
       "category": "Desi Chinese (Gravy)",
       "title": "Cashew Paneer Chilli (Gravy)",
       "price": 14.99,
-      "image": "images/chinese-gravy-4.jpg",
+      "image": "https://static.uengage.in/uploads/27234/image-4914-1698379330.jpg",
       "badge": ""
     },
     {
@@ -1769,7 +1743,7 @@
       "category": "Desi Chinese (Gravy)",
       "title": "Paneer Manchurian (Gravy)",
       "price": 14.99,
-      "image": "images/chinese-gravy-5.jpg",
+      "image": "https://foodserviceindia.com/wp-content/uploads/2024/02/Paneer-Manchurian-Gravy-464-x-566.jpg",
       "badge": ""
     },
     {
@@ -1778,17 +1752,16 @@
       "category": "Desi Chinese (Gravy)",
       "title": "D.V Special (Gravy)",
       "price": 14.99,
-      "image": "images/chinese-gravy-6.jpg",
+      "image": "https://hebbarskitchen.com/wp-content/uploads/2017/08/chilli-paneer-gravy-recipe-easy-paneer-chilli-with-gravy-recipe-1.jpeg",
       "badge": ""
     },
-
     {
       "id": "s87",
       "location": "stoddard",
       "category": "Desi Chinese (Dry)",
       "title": "Dry Manchurian",
       "price": 13.99,
-      "image": "images/chinese-dry-1.jpg",
+      "image": "https://hebbarskitchen.com/wp-content/uploads/2024/04/Veg-Crispy-Recipe-Chinese-Mix-Veg-Crispy-Street-Style-1-scaled.jpeg",
       "badge": ""
     },
     {
@@ -1797,7 +1770,7 @@
       "category": "Desi Chinese (Dry)",
       "title": "Dry Paneer Manchurian",
       "price": 14.99,
-      "image": "images/chinese-dry-2.jpg",
+      "image": "https://orders.popskitchen.in/storage/2024/09/image-167.png",
       "badge": ""
     },
     {
@@ -1806,7 +1779,7 @@
       "category": "Desi Chinese (Dry)",
       "title": "Dry Paneer Chilli",
       "price": 14.99,
-      "image": "images/chinese-dry-3.jpg",
+      "image": "https://static.uengage.in/uploads/27234/image-1952-1698379337.jpg",
       "badge": ""
     },
     {
@@ -1815,7 +1788,7 @@
       "category": "Desi Chinese (Dry)",
       "title": "Dry Veg Chilli",
       "price": 13.99,
-      "image": "images/chinese-dry-4.jpg",
+      "image": "https://hebbarskitchen.com/wp-content/uploads/2024/04/Veg-Crispy-Recipe-Chinese-Mix-Veg-Crispy-Street-Style-1-500x375.jpeg",
       "badge": ""
     },
     {
@@ -1824,7 +1797,7 @@
       "category": "Desi Chinese (Dry)",
       "title": "Dry Gobhi Manchurian",
       "price": 13.99,
-      "image": "images/chinese-dry-5.jpg",
+      "image": "https://www.sharmispassions.com/wp-content/uploads/2022/02/gobi-manchurian2.jpg",
       "badge": ""
     },
     {
@@ -1833,7 +1806,7 @@
       "category": "Desi Chinese (Dry)",
       "title": "D.V Special 65 Veg",
       "price": 13.99,
-      "image": "images/chinese-dry-6.jpg",
+      "image": "https://hebbarskitchen.com/wp-content/uploads/2024/04/Veg-Crispy-Recipe-Chinese-Mix-Veg-Crispy-Street-Style-1-500x375.jpeg",
       "badge": ""
     },
     {
@@ -1842,7 +1815,7 @@
       "category": "Desi Chinese (Dry)",
       "title": "D.V Special 65 Paneer",
       "price": 14.99,
-      "image": "images/chinese-dry-7.jpg",
+      "image": "https://orders.popskitchen.in/storage/2024/09/image-167.png",
       "badge": ""
     },
     {
@@ -1851,7 +1824,7 @@
       "category": "Desi Chinese (Dry)",
       "title": "D.V Special 65 Chaap",
       "price": 13.99,
-      "image": "images/chinese-dry-8.jpg",
+      "image": "https://junoonindiancuisine.com/order/wp-content/uploads/2023/04/tandoori-soya-chaap.jpg",
       "badge": ""
     },
     {
@@ -1860,7 +1833,7 @@
       "category": "Desi Chinese (Dry)",
       "title": "Chilly Garlic Potato",
       "price": 13.99,
-      "image": "images/chinese-dry-9.jpg",
+      "image": "https://hebbarskitchen.com/wp-content/uploads/2024/04/Veg-Crispy-Recipe-Chinese-Mix-Veg-Crispy-Street-Style-1-500x375.jpeg",
       "badge": ""
     },
     {
@@ -1869,17 +1842,16 @@
       "category": "Desi Chinese (Dry)",
       "title": "Idli Manchurian",
       "price": 13.99,
-      "image": "images/chinese-dry-10.jpg",
+      "image": "https://hebbarskitchen.com/wp-content/uploads/mainPhotos/idli-recipe-how-to-make-idli-soft-idli-recipe-idli-with-idli-rava-2.jpeg",
       "badge": ""
     },
-
     {
       "id": "s97",
       "location": "stoddard",
       "category": "Indo Chinese Mains",
       "title": "Hakka Noodles",
       "price": 14.99,
-      "image": "images/indo-chinese-1.jpg",
+      "image": "https://www.whiskaffair.com/wp-content/uploads/2018/11/Vegetable-Fried-Rice-2-3.jpg",
       "badge": ""
     },
     {
@@ -1888,7 +1860,7 @@
       "category": "Indo Chinese Mains",
       "title": "Schezwan Noodles",
       "price": 15.99,
-      "image": "images/indo-chinese-2.jpg",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/schezwan-fried-rice-recipe.webp",
       "badge": ""
     },
     {
@@ -1897,7 +1869,7 @@
       "category": "Indo Chinese Mains",
       "title": "Chilli Paneer Noodles",
       "price": 15.99,
-      "image": "images/indo-chinese-3.jpg",
+      "image": "https://hebbarskitchen.com/wp-content/uploads/2017/08/chilli-paneer-gravy-recipe-easy-paneer-chilli-with-gravy-recipe-1.jpeg",
       "badge": ""
     },
     {
@@ -1906,7 +1878,7 @@
       "category": "Indo Chinese Mains",
       "title": "D.V Special Rice & Noodles",
       "price": 17.99,
-      "image": "images/indo-chinese-4.jpg",
+      "image": "https://img-global.cpcdn.com/recipes/bf3641927c973385/1200x630cq70/photo.jpg",
       "badge": ""
     },
     {
@@ -1915,7 +1887,7 @@
       "category": "Indo Chinese Mains",
       "title": "Shanghai Rice",
       "price": 15.99,
-      "image": "images/indo-chinese-5.jpg",
+      "image": "https://img-global.cpcdn.com/recipes/bf3641927c973385/1200x630cq70/photo.jpg",
       "badge": ""
     },
     {
@@ -1924,7 +1896,7 @@
       "category": "Indo Chinese Mains",
       "title": "Fried Rice",
       "price": 13.99,
-      "image": "images/indo-chinese-6.jpg",
+      "image": "https://www.whiskaffair.com/wp-content/uploads/2018/11/Vegetable-Fried-Rice-2-3.jpg",
       "badge": ""
     },
     {
@@ -1933,7 +1905,7 @@
       "category": "Indo Chinese Mains",
       "title": "Schezwan Rice",
       "price": 14.99,
-      "image": "images/indo-chinese-7.jpg",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/schezwan-fried-rice-recipe.webp",
       "badge": ""
     },
     {
@@ -1942,7 +1914,7 @@
       "category": "Indo Chinese Mains",
       "title": "Paneer Schezwan Rice",
       "price": 16.99,
-      "image": "images/indo-chinese-8.jpg",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/schezwan-fried-rice-recipe.webp",
       "badge": ""
     },
     {
@@ -1951,7 +1923,7 @@
       "category": "Indo Chinese Mains",
       "title": "Mushroom Schezwan Rice",
       "price": 16.99,
-      "image": "images/indo-chinese-9.jpg",
+      "image": "https://12oclockbiriyani.com/wp-content/uploads/2025/03/mushroom-shezivan-fried-rice.jpg",
       "badge": ""
     },
     {
@@ -1960,7 +1932,7 @@
       "category": "Indo Chinese Mains",
       "title": "French Fries",
       "price": 8.99,
-      "image": "images/indo-chinese-10.jpg",
+      "image": "https://recipescool.com/wp-content/uploads/2023/08/1-7.png",
       "badge": ""
     },
     {
@@ -1969,17 +1941,16 @@
       "category": "Indo Chinese Mains",
       "title": "Honey Chili Potato",
       "price": 14.99,
-      "image": "images/indo-chinese-11.jpg",
+      "image": "https://hebbarskitchen.com/wp-content/uploads/2024/04/Veg-Crispy-Recipe-Chinese-Mix-Veg-Crispy-Street-Style-1-500x375.jpeg",
       "badge": ""
     },
-
     {
       "id": "s108",
       "location": "stoddard",
       "category": "Soup",
       "title": "Manchow Soup",
       "price": 9.99,
-      "image": "images/soup-1.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH3uh43tMBZ2v0O27eSt79Zioo9ataICNlag&s",
       "badge": ""
     },
     {
@@ -1988,17 +1959,16 @@
       "category": "Soup",
       "title": "Hot And Sour Soup",
       "price": 9.99,
-      "image": "images/soup-2.jpg",
+      "image": "https://www.cookingcarnival.com/wp-content/uploads/2023/09/Hot-and-sour-soup-4.jpg",
       "badge": ""
     },
-
     {
       "id": "s110",
       "location": "stoddard",
       "category": "Tandoori",
       "title": "Tandoori Seekh Kabab",
       "price": 15.99,
-      "image": "images/tandoori-1.jpg",
+      "image": "https://junoonindiancuisine.com/order/wp-content/uploads/2023/04/tandoori-soya-chaap.jpg",
       "badge": ""
     },
     {
@@ -2007,7 +1977,7 @@
       "category": "Tandoori",
       "title": "Tandoori Allo Kabab",
       "price": 15.99,
-      "image": "images/tandoori-2.jpg",
+      "image": "https://hinzcooking.com/wp-content/uploads/2019/03/aloo-kabab-potato-kabab-recipe.jpg",
       "badge": ""
     },
     {
@@ -2016,7 +1986,7 @@
       "category": "Tandoori",
       "title": "Tandoori Chaap",
       "price": 15.99,
-      "image": "images/tandoori-3.jpg",
+      "image": "https://junoonindiancuisine.com/order/wp-content/uploads/2023/04/tandoori-soya-chaap.jpg",
       "badge": ""
     },
     {
@@ -2025,7 +1995,7 @@
       "category": "Tandoori",
       "title": "Malai Chaap",
       "price": 16.99,
-      "image": "images/tandoori-4.jpg",
+      "image": "https://static.vecteezy.com/system/resources/previews/016/285/733/large_2x/vegetarian-soya-malai-chaap-made-using-soya-chaap-with-white-creamy-gravy-free-photo.jpg",
       "badge": ""
     },
     {
@@ -2034,7 +2004,7 @@
       "category": "Tandoori",
       "title": "Tandoori Momo",
       "price": 16.99,
-      "image": "images/tandoori-5.jpg",
+      "image": "https://madscookhouse.com/wp-content/uploads/2021/04/Spicy-Tandoori-Momos.jpg",
       "badge": ""
     },
     {
@@ -2043,7 +2013,7 @@
       "category": "Tandoori",
       "title": "Panner Tikka Kabab",
       "price": 17.99,
-      "image": "images/tandoori-6.jpg",
+      "image": "https://www.cookwithmanali.com/wp-content/uploads/2014/04/Paneer-Tikka-Masala-500x500.jpg",
       "badge": ""
     },
     {
@@ -2052,7 +2022,7 @@
       "category": "Tandoori",
       "title": "Paneer Bhuji",
       "price": 19.99,
-      "image": "images/tandoori-7.jpg",
+      "image": "https://img-global.cpcdn.com/recipes/edc19395c647b324/680x781cq80/paneer-tandoori-masala-bhurji-recipe-main-photo.jpg",
       "badge": ""
     },
     {
@@ -2061,7 +2031,7 @@
       "category": "Tandoori",
       "title": "Kaju Paneer Masala",
       "price": 19.99,
-      "image": "images/tandoori-8.jpg",
+      "image": "https://www.nehascookbook.com/wp-content/uploads/2022/11/Paneer-tikka-masala-WS-500x500.jpg",
       "badge": ""
     },
     {
@@ -2070,7 +2040,7 @@
       "category": "Tandoori",
       "title": "Daal Fry",
       "price": 18.99,
-      "image": "images/tandoori-9.jpg",
+      "image": "https://heartfultable.com/wp-content/uploads/2019/11/Vegan-Dal-Makhani-225x225.jpg",
       "badge": ""
     },
     {
@@ -2079,7 +2049,7 @@
       "category": "Tandoori",
       "title": "Daal Hariyali",
       "price": 18.99,
-      "image": "images/tandoori-10.jpg",
+      "image": "https://maayeka.com/wp-content/uploads/2012/09/daal-hariyali-.jpg.webp",
       "badge": ""
     },
     {
@@ -2088,7 +2058,7 @@
       "category": "Tandoori",
       "title": "Daal Panchratna",
       "price": 18.99,
-      "image": "images/tandoori-11.jpg",
+      "image": "https://heartfultable.com/wp-content/uploads/2019/11/Black-Dal-Recipe-4.jpg",
       "badge": ""
     },
     {
@@ -2097,17 +2067,16 @@
       "category": "Tandoori",
       "title": "Daal Makhni",
       "price": 19.99,
-      "image": "images/tandoori-12.jpg",
+      "image": "https://heartfultable.com/wp-content/uploads/2019/11/Black-Dal-Recipe-4.jpg",
       "badge": ""
     },
-
     {
       "id": "s122",
       "location": "stoddard",
       "category": "Fryer",
       "title": "Harabhara Kabab",
       "price": 15.99,
-      "image": "images/fryer-1.jpg",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/05/hara-bhara-kabab-480x270.jpg",
       "badge": ""
     },
     {
@@ -2116,7 +2085,7 @@
       "category": "Fryer",
       "title": "Loaded Special Masala Fries",
       "price": 14.99,
-      "image": "images/fryer-2.jpg",
+      "image": "https://halalsmashburgers.com/wp-content/uploads/2025/02/Loaded-cheese-fries_-580x580.jpg",
       "badge": ""
     },
     {
@@ -2125,7 +2094,7 @@
       "category": "Fryer",
       "title": "Cheese Corn Bowl",
       "price": 15.99,
-      "image": "images/fryer-3.jpg",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1074479_10-ab735ce.jpg",
       "badge": ""
     },
     {
@@ -2134,17 +2103,16 @@
       "category": "Fryer",
       "title": "Veg Spring Roll",
       "price": 14.99,
-      "image": "images/fryer-4.jpg",
+      "image": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_center,w_730,h_913/k%2FPhoto%2FRecipe%20Ramp%20Up%2F2022-01-Spring-Rolls%2FVegetarian_Spring_Rolls-2",
       "badge": ""
     },
-
     {
       "id": "s126",
       "location": "stoddard",
       "category": "Chines (Sizzler)",
       "title": "Veg Manchurian Sizzler",
       "price": 25.99,
-      "image": "images/sizzler-1.jpg",
+      "image": "https://hebbarskitchen.com/wp-content/uploads/2024/04/Veg-Crispy-Recipe-Chinese-Mix-Veg-Crispy-Street-Style-1-scaled.jpeg",
       "badge": ""
     },
     {
@@ -2153,7 +2121,7 @@
       "category": "Chines (Sizzler)",
       "title": "Veg Sezwan Sizzler",
       "price": 25.99,
-      "image": "images/sizzler-2.jpg",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/schezwan-fried-rice-recipe.webp",
       "badge": ""
     },
     {
@@ -2162,7 +2130,7 @@
       "category": "Chines (Sizzler)",
       "title": "Panner Tikka Sizzler",
       "price": 25.99,
-      "image": "images/sizzler-3.jpg",
+      "image": "https://www.cookwithmanali.com/wp-content/uploads/2014/04/Paneer-Tikka-Masala-500x500.jpg",
       "badge": ""
     },
     {
@@ -2171,17 +2139,16 @@
       "category": "Chines (Sizzler)",
       "title": "Italian Pasta Sizzler",
       "price": 25.99,
-      "image": "images/sizzler-4.jpg",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1074479_10-ab735ce.jpg",
       "badge": ""
     },
-
     {
       "id": "s130",
       "location": "stoddard",
       "category": "D.V Special Currys",
       "title": "Butter Paneer Masala",
       "price": 19.99,
-      "image": "images/curry-1.jpg",
+      "image": "https://www.nehascookbook.com/wp-content/uploads/2022/11/Paneer-tikka-masala-WS-500x500.jpg",
       "badge": ""
     },
     {
@@ -2190,7 +2157,7 @@
       "category": "D.V Special Currys",
       "title": "Aloo Mutter",
       "price": 18.99,
-      "image": "images/curry-2.jpg",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/aloo-matar-aloo-mutter-recipe.webp",
       "badge": ""
     },
     {
@@ -2199,7 +2166,7 @@
       "category": "D.V Special Currys",
       "title": "Aloo Gobi",
       "price": 18.99,
-      "image": "images/curry-3.jpg",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/03/aloo-gobi-recipe.webp",
       "badge": ""
     },
     {
@@ -2208,7 +2175,7 @@
       "category": "D.V Special Currys",
       "title": "Jeera Aloo",
       "price": 18.99,
-      "image": "images/curry-4.jpg",
+      "image": "https://www.spiceupthecurry.com/wp-content/uploads/2020/10/jeera-aloo-recipe-2-500x500.jpg",
       "badge": ""
     },
     {
@@ -2217,7 +2184,7 @@
       "category": "D.V Special Currys",
       "title": "Veg Kolhapur",
       "price": 18.99,
-      "image": "images/curry-5.jpg",
+      "image": "https://myfoodstory.com/wp-content/uploads/2022/04/Veg-Kolhapuri-2-1.jpg",
       "badge": ""
     },
     {
@@ -2226,7 +2193,7 @@
       "category": "D.V Special Currys",
       "title": "Veg Jalferezi",
       "price": 18.99,
-      "image": "images/curry-6.jpg",
+      "image": "https://hebbarskitchen.com/wp-content/uploads/2021/03/veg-jalfrezi-recipe-vegetable-jalfrezi-how-to-make-mix-veg-jalfrezi-1-768x512.jpeg",
       "badge": ""
     },
     {
@@ -2235,7 +2202,7 @@
       "category": "D.V Special Currys",
       "title": "Veg Makkhan Wala",
       "price": 18.99,
-      "image": "images/curry-7.jpg",
+      "image": "https://cookingfromheart.com/wp-content/uploads/2020/08/Veg-Makhanwala-2-480x270.jpg",
       "badge": ""
     },
     {
@@ -2244,7 +2211,7 @@
       "category": "D.V Special Currys",
       "title": "Veg Korma",
       "price": 18.99,
-      "image": "images/curry-8.jpg",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1074479_10-ab735ce.jpg",
       "badge": ""
     },
     {
@@ -2253,7 +2220,7 @@
       "category": "D.V Special Currys",
       "title": "Veg Pudina Kali Mirchi",
       "price": 18.99,
-      "image": "images/curry-9.jpg",
+      "image": "https://maayeka.com/wp-content/uploads/2012/09/daal-hariyali-.jpg.webp",
       "badge": ""
     },
     {
@@ -2262,7 +2229,7 @@
       "category": "D.V Special Currys",
       "title": "D.V Special Curry",
       "price": 19.99,
-      "image": "images/curry-10.jpg",
+      "image": "https://youimg1.c-ctrip.com/target/10060a0000004ec4xF717.jpg",
       "badge": ""
     },
     {
@@ -2271,7 +2238,7 @@
       "category": "D.V Special Currys",
       "title": "Panner Tikka Masla",
       "price": 19.99,
-      "image": "images/curry-11.jpg",
+      "image": "https://www.nehascookbook.com/wp-content/uploads/2022/11/Paneer-tikka-masala-WS-500x500.jpg",
       "badge": ""
     },
     {
@@ -2280,7 +2247,7 @@
       "category": "D.V Special Currys",
       "title": "Kadahi Paneer",
       "price": 19.99,
-      "image": "images/curry-12.jpg",
+      "image": "https://www.cookwithmanali.com/wp-content/uploads/2014/04/Paneer-Tikka-Masala-500x500.jpg",
       "badge": ""
     },
     {
@@ -2289,7 +2256,7 @@
       "category": "D.V Special Currys",
       "title": "Palak Paneer",
       "price": 19.99,
-      "image": "images/curry-13.jpg",
+      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/02/matar-paneer-2.jpg",
       "badge": ""
     },
     {
@@ -2298,7 +2265,7 @@
       "category": "D.V Special Currys",
       "title": "Adraki Lasoon Dhaniya Paneer",
       "price": 19.99,
-      "image": "images/curry-14.jpg",
+      "image": "https://images.slurrp.com/prod/recipe_images/better-butter/paneer-dhaniya-adraki-korma-cottage-cheese-in-coriander-ginger-flavored-yogurt-sauce-1614318374_J814709MK94ERW2NPLGJ.webp",
       "badge": ""
     },
     {
@@ -2307,17 +2274,16 @@
       "category": "D.V Special Currys",
       "title": "Mutter Paneer",
       "price": 19.99,
-      "image": "images/curry-15.jpg",
+      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/02/matar-paneer-2.jpg",
       "badge": ""
     },
-
     {
       "id": "s145",
       "location": "stoddard",
       "category": "Bread / Naan",
       "title": "Naan",
       "price": 3.99,
-      "image": "images/bread-1.jpg",
+      "image": "https://static01.nyt.com/images/2014/03/19/dining/naan/naan-blog480.jpg",
       "badge": ""
     },
     {
@@ -2326,7 +2292,7 @@
       "category": "Bread / Naan",
       "title": "Butter Naan",
       "price": 4.99,
-      "image": "images/bread-2.jpg",
+      "image": "https://static01.nyt.com/images/2014/03/19/dining/naan/naan-blog480.jpg",
       "badge": ""
     },
     {
@@ -2335,7 +2301,7 @@
       "category": "Bread / Naan",
       "title": "Garlic Naan",
       "price": 4.99,
-      "image": "images/bread-3.jpg",
+      "image": "https://www.allrecipes.com/thmb/RNyrLGqJWiDaRcBggJZekRD7PwE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6703829-79839289e42b481f80e689be46731023.jpg",
       "badge": ""
     },
     {
@@ -2344,7 +2310,7 @@
       "category": "Bread / Naan",
       "title": "D.v Special Naan",
       "price": 5.99,
-      "image": "images/bread-4.jpg",
+      "image": "https://static01.nyt.com/images/2014/03/19/dining/naan/naan-blog480.jpg",
       "badge": ""
     },
     {
@@ -2353,17 +2319,16 @@
       "category": "Bread / Naan",
       "title": "Lachha Paratha",
       "price": 4.99,
-      "image": "images/bread-5.jpg",
+      "image": "https://static01.nyt.com/images/2014/03/19/dining/naan/naan-blog480.jpg",
       "badge": ""
     },
-
     {
       "id": "s150",
       "location": "stoddard",
       "category": "Rice",
       "title": "Steam Rice",
       "price": 4.99,
-      "image": "images/rice-1.jpg",
+      "image": "https://cdn3.didevelop.com/public/cdn/533_0fc8e0df4465ea5d4c4d70b9d3d0933e.jpg",
       "badge": ""
     },
     {
@@ -2372,7 +2337,7 @@
       "category": "Rice",
       "title": "Jeera Rice",
       "price": 10.99,
-      "image": "images/rice-2.jpg",
+      "image": "https://kitchendocs.com/wp-content/uploads/2025/01/Indian-Cumin-Rice-Jeer-Rice-Closeup-720x960.jpg",
       "badge": ""
     },
     {
@@ -2381,7 +2346,7 @@
       "category": "Rice",
       "title": "Tawa Pulao",
       "price": 18.99,
-      "image": "images/rice-3.jpg",
+      "image": "https://www.spiceupthecurry.com/wp-content/uploads/2021/08/tawa-pulao-2-500x500.jpg",
       "badge": ""
     },
     {
@@ -2390,7 +2355,7 @@
       "category": "Rice",
       "title": "Mix Veg Biryani",
       "price": 19.99,
-      "image": "images/rice-4.jpg",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/schezwan-fried-rice-recipe.webp",
       "badge": ""
     },
     {
@@ -2399,17 +2364,16 @@
       "category": "Rice",
       "title": "Lemon Rice",
       "price": 14.99,
-      "image": "images/rice-5.jpg",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/schezwan-fried-rice-recipe.webp",
       "badge": ""
     },
-
     {
       "id": "s155",
       "location": "stoddard",
       "category": "Sides",
       "title": "Yoghurt",
       "price": 4.99,
-      "image": "images/sides-1.jpg",
+      "image": "https://cdn3.didevelop.com/public/cdn/533_0fc8e0df4465ea5d4c4d70b9d3d0933e.jpg",
       "badge": ""
     },
     {
@@ -2418,7 +2382,7 @@
       "category": "Sides",
       "title": "Raita",
       "price": 6.99,
-      "image": "images/sides-2.jpg",
+      "image": "https://cdn3.didevelop.com/public/cdn/533_0fc8e0df4465ea5d4c4d70b9d3d0933e.jpg",
       "badge": ""
     },
     {
@@ -2427,7 +2391,7 @@
       "category": "Sides",
       "title": "Papadum (3pcs)",
       "price": 4.99,
-      "image": "images/sides-3.jpg",
+      "image": "https://cliftonnimco.com/wp-content/uploads/2018/04/Rice_Daal_Papadum_copy-768x768.jpg",
       "badge": ""
     },
     {
@@ -2436,17 +2400,16 @@
       "category": "Sides",
       "title": "Green Salad",
       "price": 9.99,
-      "image": "images/sides-4.jpg",
+      "image": "https://www.allrecipes.com/thmb/N1kZohqcz2q1zzEQoTrwnWrPYdA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-14452-green-salad-VAT-hero-2x1-9e7e5f412a46486d888bd247d3ae1825.jpg",
       "badge": ""
     },
-
     {
       "id": "s159",
       "location": "stoddard",
       "category": "Dessert",
       "title": "Gulab Jamun With Ice Cream",
       "price": 11.99,
-      "image": "images/dessert-1.jpg",
+      "image": "https://vismaifood.com/storage/app/uploads/public/605/ec3/e78/605ec3e7863c3273091894.jpg",
       "badge": ""
     },
     {
@@ -2455,7 +2418,7 @@
       "category": "Dessert",
       "title": "D.V Special Cream Salad",
       "price": 12.99,
-      "image": "images/dessert-2.jpg",
+      "image": "https://img.freepik.com/premium-photo/fruit-salad-with-cream_138106-10044.jpg",
       "badge": ""
     },
     {
@@ -2464,7 +2427,7 @@
       "category": "Dessert",
       "title": "D.v Special Mango Falooda",
       "price": 12.99,
-      "image": "images/dessert-3.jpg",
+      "image": "https://vanitascorner.com/wp-content/uploads/2023/04/Mango-Falooda.jpg",
       "badge": ""
     },
     {
@@ -2473,7 +2436,7 @@
       "category": "Dessert",
       "title": "D.v Special Royal Falooda",
       "price": 12.99,
-      "image": "images/dessert-4.jpg",
+      "image": "https://vanitascorner.com/wp-content/uploads/2023/04/Mango-Falooda.jpg",
       "badge": ""
     },
     {
@@ -2482,7 +2445,7 @@
       "category": "Dessert",
       "title": "Mango Lassi",
       "price": 5.99,
-      "image": "images/dessert-5.jpg",
+      "image": "https://vanitascorner.com/wp-content/uploads/2023/04/Mango-Falooda.jpg",
       "badge": ""
     },
     {
@@ -2491,7 +2454,7 @@
       "category": "Dessert",
       "title": "Sweet Lassi",
       "price": 4.99,
-      "image": "images/dessert-6.jpg",
+      "image": "https://foodandroad.com/wp-content/uploads/2021/04/masala-chai-indian-drink-3.jpg",
       "badge": ""
     },
     {
@@ -2500,7 +2463,7 @@
       "category": "Dessert",
       "title": "Butter Lassi",
       "price": 5.99,
-      "image": "images/dessert-7.jpg",
+      "image": "https://foodandroad.com/wp-content/uploads/2021/04/masala-chai-indian-drink-3.jpg",
       "badge": ""
     }
   ]

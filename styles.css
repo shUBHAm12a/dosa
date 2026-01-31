@@ -573,7 +573,7 @@ button {
   }
 
   .hero-carousel {
-    height: 240px;
+    height: 340px;
   }
 
   .hero-content {
@@ -581,8 +581,8 @@ button {
   }
 
   .hero-title {
-    font-size: 1.7rem;
-    margin-top: 3rem;
+    font-size: 1.9rem;
+    margin-top: 3.5rem;
   }
 
   .hero-subtitle {
